@@ -1,0 +1,4 @@
+.carousel-inner > .active {
+    margin: 0 auto;
+    left: inherit !important;
+}

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Course Cheatsheet</title>
+<meta charset="utf-8"/>
+<script>
+	var pg_csslibs = []; // CSS Libs for this Page
+	var pg_jslibs = []; // JS Libs for this Page
+	var cheatsheet = true; //---- tells FW this is a cheatsheet page, important ----//
+	var swatchColors = ["011640","8c3037","024059","f2f0d0","be6c5c"]; //---- **NOTE don't include # in your hex color ----//
+</script>
+<script src="../global/js/settings.js" id="settingJS"></script>
+</head>
+<body>
+
+<div class="topnav">
+  <a href="javascript:void(0);" class="link linka">Local Cheatsheet</a>
+  <a href="javascript:void(0);" class="link linkb">Global Cheatsheet</a>
+</div>
+
+<main id="main" role="main">
+  <div id="iframe"></div>
+  <div id="content">
+  
+    <blockquote><h1>Course Cheatsheet</h1></blockquote>
+    <div class="alert alert-danger">The content on this cheatsheet is specific to this course only</div>
+    <h2>Course Colors</h2>
+    <div class="clearfix swatches"></div>
+    <hr/>
+    
+    
+    <div class="bs-example">
+    	<h2>Special Icons</h2>
+        <p>The way you create local icons is the same as if you were creating global icons, however you must add the "_local" next to the "icon" in the class attribute for the div.</p>
+    </div>    
+	<div class="highlight">
+      <pre>
+      
+&lt;div class=&quot;icon_local&quot; data-icon="icon_name" &gt;&lt;/div&gt;
+      
+      </pre>
+    </div>    
+    
+    <div class="bs-example">
+    	<h2>Special Display Elements</h2>
+        <p>This is where you would add code blocks for specifically styles div blocks or styled content that can be used for this course.</p>
+    
+    </div>    
+	<div class="highlight">
+      <pre>
+      
+<code>stuff goes here</code>
+      
+      </pre>
+    </div>    
+    
+
+    <div class="bs-example">
+    	<h2>Special Development Instructions</h2>
+        <p>This is where special instructions go with regards to using this version of the framework if edits had been made and the developers need special instructions on how to do certain things like change the background for individual courses, etc..</p>
+    
+    </div>    
+	<div class="highlight">
+      <pre>
+      
+<code>stuff goes here</code>
+      
+      </pre>
+    </div>    
+
+
+    <div class="bs-example">
+    	<h2>Special Libraries Used</h2>
+        <p>This is where you would list all special javascript libraries or files used, their functions, how to use them, links to the websites for them if they exist, etc.</p>
+    
+    </div>    
+	<div class="highlight">
+      <pre>
+      
+<code>stuff goes here</code>
+      
+      </pre>
+    </div>    
+
+
+  </div>
+</main>
+</body>
+</html>

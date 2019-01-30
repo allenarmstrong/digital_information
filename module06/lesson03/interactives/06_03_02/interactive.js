@@ -1,0 +1,1 @@
+         window.onload = function (){             XMLPARSING = new XMLParsing.parseXML("data/gamedata1.xml");         }     

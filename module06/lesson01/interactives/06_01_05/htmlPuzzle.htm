@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Toolwire Interactivity</title>
+    <script type="text/javascript" src="js/jquery-1.6.2.js"></script>
+    <script type="text/javascript" src="js/jquery-1.6.2.js"></script>
+    <script type="text/javascript" src="js/libs/jquery.ui.core.js"></script>
+    <script type="text/javascript" src="js/libs/jquery.ui.widget.js"></script>
+    <script type="text/javascript" src="js/libs/jquery.ui.mouse.js"></script>
+    <script type="text/javascript" src="js/libs/jquery.ui.draggable.js"></script>
+    <script type="text/javascript" src="js/libs/jquery.ui.droppable.js"></script>
+    <script type="text/javascript" src="js/libs/jquery.ui.touch.js"></script>
+    <script type="text/javascript" src="js/main1.js"></script>
+    <script type="text/javascript" src="js/DnD1.js"></script>
+    <script>
+        window.onload = function () {
+            XMLPARSING = new XMLParsing.parseXML("data/gamedata1.xml");
+        }
+    </script>
+
+    <link href="css/cssReset.css" rel="stylesheet" type="text/css">
+    <link href="css/style1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="mainDiv">
+
+    <img id="BGImg" src="assets/text_editor.png" alt="text editor background"/>
+    <div id="dropDiv"></div>
+    <div id="dragDiv"></div>
+    <div id="submitBtn" class="BtnClass"><span> Submit </span></div>
+    <div id="startOver" class="BtnClass"><span>Start Over</span></div>
+    <div id="feedbacktext"></div>
+    <div id="finalfeedbacktext"></div>
+    <div id="instructionText"></div>
+    <img id="browserImg" src="assets/browser_win.png" alt="browser window"/>
+    <img id="unbindDrag" src="assets/transparent_box.png" alt=""/>
+</div>
+</body>
+</html>

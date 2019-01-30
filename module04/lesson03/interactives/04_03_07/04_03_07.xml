@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+  <settings>
+    <instructions>Review the following charts and graphs. Select the option that best reflects what is being communicated.</instructions>
+    <css>
+      <width>700</width>
+      <height>400</height>
+    </css>
+  </settings>
+  <question>
+    <type>mc</type>
+    <title>title-image?</title>
+    <quiz>What is the purpose of this line graph? </quiz>
+    <answer>To show how many happy and sad emoticons are tweeted per hour in the UK.</answer>
+    <correct>Awesome attention to detail! You read the graph heading carefully and identified the correct message of the data.</correct>
+    <option>To show how many people in the UK are happy versus sad. </option>
+     <feedback>You’re on the right track, but pay closer attention to all the details in the graph heading. Try again.</feedback> <option>To show how many people in the UK use Twitter.</option>
+  
+    <feedback>You can do this, so don't give up! Go back and re-read the graph heading to review all the details.</feedback>
+  </question>
+
+<question>       <type>mc</type>
+<title>title? image?</title>
+    <quiz>According to this "pie" chart, which type of pie is most popular?</quiz>
+    <answer>Pumpkin</answer>
+    <correct>Pumpkin is the fan favorite! Good job identifying the largest slice of pie on the "pie" chart.</correct>
+    <option>Apple</option>
+    <feedback>Apple pie is yummy, but look again at the size of the pies. Which one is the largest?</feedback>
+ <option>Pecan</option>
+       <feedback>Pecan pie is ooey, gooey, and delicious. But it is not the favorite. Try again.</feedback>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>image?</title>
+    <quiz>Which month had the least amount of French fry consumption?</quiz>
+    <answer>February</answer>
+    <correct>It looks like people are taking their New Year's resolutions seriously and staying away from the fries. Good job!</correct>
+    <option>April</option>
+    <feedback>People were pretty good about avoiding fries in April, but there is a month people were even better. Try again!</feedback>
+    <option>September</option>
+    <feedback>Wow! Was there a special on French fries this month? Look again at for the month with the smallest French fry consumption.</feedback>
+  
+  </question>
+ 
+</interactive>

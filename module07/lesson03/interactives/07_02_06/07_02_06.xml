@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+  <settings>
+    <instructions>Answer the following questions to show how to use PowerPoint to conduct each activity.</instructions>
+    <css>
+      <width>700</width>
+      <height>400</height>
+    </css>
+  </settings>
+<question>
+    <type>mc</type>
+   <title>PowerPoint Skills</title>
+    <quiz>How do you search for and add an online image to a PowerPoint slide?</quiz>
+    <answer>Go to the Insert tab and select Online Pictures from the Images group</answer>
+    <correct>It's obvious you paid attention to the lesson! You know how to search and insert online images.</correct>
+    <option> Go to the View tab and view images to use in a PowerPoint</option>
+     <feedback>Trying is like exercising your brain. Give this question another try.</feedback> <option>Go to the Page Layout tab and adjust the theme </option>  
+    <feedback>Be proud of your effort on this question, but try again. You will increase your brain strength if you do!</feedback>
+  </question>
+
+<question>       <type>mc</type> <title>PowerPoint Skills</title>
+
+<quiz>What is the most effective way to represent the process of writing a research paper?</quiz>
+    <answer>Use Smart Art to illustrate the steps</answer>
+    <correct>You made the connection! Smart Art is a great way to show the process of writing a research paper.</correct>
+    <option>Add an image of a library</option>
+    <feedback>Good effort! A picture of a library doesn't show the research writing process, though. Try again.</feedback>
+ <option>Tell a story of when you have written an essay</option>
+       <feedback>Your brain gets stronger every time you try! Think a little more about this one and try again.)</feedback>
+  </question>
+  <question>
+    <type>mc</type> <title>PowerPoint Skills</title>
+   
+    <quiz>What type of image would best support a presentation on the dangers of distracted driving?</quiz>
+    <answer>A picture of a car crash</answer>
+    <correct>Sad but true. An image that shows a possible consequence of distracted driving powerfully supports the message of the presentation.</correct>
+    <option>A picture of a new car</option>
+    <feedback>Effort is spinach for the brain. Try again and really flex your thinking muscles.</feedback>
+    <option>A picture of traffic </option>
+    <feedback>You are on the right track, but there is a better option to support the presentation on distracted driving.</feedback>
+  
+  </question>
+   <question>
+    <type>mc</type> <title>PowerPoint Skills</title>
+   
+    <quiz>Which tab do you use to add images, shapes, Smart Art, symbols, and text boxes to a slide?</quiz>
+    <answer>Insert </answer>
+    <correct>Your thinking cap looks good on you. Way to go!</correct>
+    <option>File </option>
+    <feedback>This is a worthy effort, but please try again.</feedback>
+    <option>Home</option>
+    <feedback>Your brain gets more muscular with each attempt! Try again.</feedback>
+  
+  </question>
+</interactive>

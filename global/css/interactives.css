@@ -1,0 +1,240 @@
+/*======================================
+
+CSS DOCUMENT FOR CUSTOM INTERACTIVE STYLES, ABOVE THE ILSKIN templates
+HAVE TO CALL IT IN SETTINGS FILE var course_csslibs = ['../global/css/interactives.css'...
+
+======================================*/
+
+/*flip cards*/
+
+.ui_flip h1 {
+    color: #b5510a;
+}
+
+
+/*======================================
+    TAB PANEL INTERACTIVE
+    LINE 12 thru 83
+======================================*/
+.tab_treatment {
+    max-width: 900px;
+}
+
+.tab_background, .content_text {
+    max-width: 900px;
+    padding: 5px;
+    border: 1px solid #df9d7d;
+    -webkit-border-radius: 5px !important;
+    -moz-border-radius: 5px !important;
+    border-radius: 5px !important;
+}
+
+/** Buttons **/
+#custom_interactive button {
+    width: 108px;
+
+    margin: 3px auto;
+    -webkit-border-radius: 5px !important;
+    -moz-border-radius: 5px !important;
+    border-radius: 5px !important;
+    -webkit-box-shadow: 2px 2px 7px #666666;
+    -moz-box-shadow: 2px 2px 7px #666666;
+    box-shadow: 2px 2px 7px #666666;
+    color: #000;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    background: #df9d7d;
+    padding: 6px;
+    border: solid #ffffff 1px;
+    text-decoration: none;
+    top: -18px;
+    left: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+#custom_interactive button:hover, #custom_interactive button.on {
+    background: #bd3a00;
+    text-decoration: none;
+    color: #fff;
+}
+
+/** Arrows **/
+.arrows {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.arrow1, .arrow2, .arrow3, .arrow4, .arrow5, .arrow6, .arrow7, .arrow8, .arrow9, .arrow10 {
+    display: none;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    position: absolute;
+}
+
+.hilite1, .hilite2, .hilite3, .hilite4, .hilite5, .hilite6, .hilite7, .hilite8, .hilite9, .hilite10 {
+    display: block;
+    background: rgba(189, 58, 0, .2);
+}
+
+/** Bottom Text Area **/
+.content_text {
+    padding: 35px;
+    position: relative;
+    top: -35px;
+    min-height: 72px;
+}
+
+.content1, .content2, .content3, .content4, .content5, .content6, .content7, .content8, .content9, .content10 {
+    display: none;
+}
+
+/*=====================================
+    END TAB TREATMENT
+======================================*/
+
+.il_interactive p {
+    padding-bottom: 10px;
+}
+
+.ilTextVersion h3 {
+    padding-bottom: 10px;
+}
+
+.ilTextVersion h3.panel-title {
+    padding-bottom: 0;
+}
+
+/*=====================================
+    FW4 Interactives
+======================================*/
+
+.ui_quiz {
+    border: 10px solid white;
+    background: #fffcf8;
+}
+
+.ui_quiz label {
+    font-weight: 400 !important;
+}
+
+.ui_quiz .quiz_content {
+    border: 1px solid #c2560a;
+}
+
+.ui-widget-header {
+    background: #f5d3ac;
+    padding: 7px !important;
+    border: 1px solid #c2560a !important;
+    border-top: none !important;
+}
+
+.ui-dialog-titlebar {
+    border: none !important;
+    color: #333;
+}
+
+.ui-dialog-title {
+    color: #333;
+}
+
+.ui_quiz .submit {
+    bottom: 35px;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    background: #c2560a;
+    border: #a04709;
+}
+
+.ui-state-hover {
+    color: #fff !important;
+    background: #b5510a !important;
+    -webkit-box-shadow: inset 0 0 9px 1px rgba(0, 0, 0, 0.36);
+    -moz-box-shadow: inset 0 0 9px 1px rgba(0, 0, 0, 0.36);
+    box-shadow: inset 0 0 9px 1px rgba(0, 0, 0, 0.36);
+}
+
+.ui-state-hover a, .ui-state-hover a:hover, .ui-state-hover a:link, .ui-state-hover a:visited {
+    color: #333333;
+    text-decoration: none;
+}
+
+.ui-state-focus {
+    color: #fff;
+}
+
+.ui_instructions.glyphicon {
+    left: 3px;
+}
+
+.quiz_navigation label {
+    color: #333;
+    text-shadow: none;
+}
+
+/*=====================================
+    FW4 SlideShow
+======================================*/
+.outerboarder {
+    padding: 2px;
+    border: solid 1px #ccc;
+}
+
+.carousel {
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+    border-top: solid 10px #c2560a;
+    border-bottom: solid 10px #c2560a;
+    margin-bottom: 0px;
+}
+.carousel-control {
+    top: 50%;
+    text-shadow: none;
+}
+
+.carousel-indicators li {
+    background-image: url("../images/global/pagination.png") !important;
+}
+
+.carousel-control.left, .carousel-control.right {
+    color: #c2560a;
+}
+
+.carousel-control.right {
+    margin-left: 90.5%;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 5px;
+    right: 0;
+    left: inherit;
+    z-index: 15;
+    width: 100%;
+    text-align: center;
+
+    padding-left: 0;
+    list-style: none;
+    margin: 0 auto
+}
+
+.carousel-caption {
+    bottom: 70px !important;
+}
+
+/* Drag n Drop */
+.jDragDrop {
+    background-color: #faf6ef;
+}
+
+.il_interactive .droppable, .il_interactive .drop {
+    min-width: 175px !important;
+}
+
+.il_interactive .drop .bin, .il_interactive .droppable .bin {
+    padding-right: 8px;
+    min-width: 160px;
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+	<title>Weak vs Constructive</title>
+	<directionsTextVer>Select each card to see how weak criticism can be turned into constructive criticism.</directionsTextVer>
+	<width>280</width>
+	<height>400</height>
+	<bgcolor>#f5d3ac</bgcolor>
+	<speed>350</speed>
+	<spinDirection>lr</spinDirection>
+	
+  
+	<flipcard>
+	  <cardfront>
+	  	<title>Weak <![CDATA[  <p></p>  ]]>You are so boring.<![CDATA[  <p></p>  ]]></title>
+<text>Ouch! That could be very hurtful. Constructive criticism should never demean a person.</text>
+		<img>
+		   <alt>Image of girl at a keyboard with a bored look on her face</alt>		  <description></description>				  <src>interactives/03_04_02/images/weak1_ts.png</src>
+		</img>
+	  </cardfront>
+	  <cardback>	
+	  	<title>Constructive </title>
+	    <text>Have you considered talking more when you're in a group? People would like you to get more involved.<![CDATA[  <p></p>  ]]>This feedback focuses on a behavior (quietness) and offers a solution.</text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+	<flipcard>
+	  <cardfront>
+	    <title>Weak <![CDATA[ <br/> ]]>You are so negative. Nobody wants to work with you.</title>
+	    <text>This feedback is mean! It doesn't focus on a behavior or offer any type of solution. This is called unconstructive criticism. </text>
+		<img>
+		  <alt>Image of boy hiding his face behind his hands</alt>
+		  <description></description>
+		  <src>interactives/03_04_02/images/weak2_ts.png</src>
+		</img>
+	  </cardfront>
+	  <cardback>
+	  	<title>Constructive </title>
+	    <text>You're great at seeing risks in a project, but try praising your team's accomplishments, too. A positive attitude brings people together and makes the team's efforts seem valued.<![CDATA[  <p></p>  ]]>Start constructive criticism by acknowledging a person's strength. This makes the person more open to the feedback. In addition to providing a solution, also offer the "why behind the what" to show the possible benefit.</text>
+		<img>
+		  <alt></alt>
+		  <description></description>
+		  <src></src>
+		</img>
+	  </cardback>
+	</flipcard>
+	
+	
+</settings>

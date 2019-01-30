@@ -1,0 +1,35 @@
+
+.one_button_bg {
+	background-image: url("../images/one_button_ts.png");
+	width: 375px;
+	height: 250px;
+	margin-left: 30px;
+}
+
+.pace_list {
+	list-style: none;
+	padding-top: 30px;
+	margin-left: -30px;
+}
+
+.pace_list img {
+	max-width: 20%;
+}
+
+ul.pace_list li {
+	display: inline;
+	padding-left: 10px;
+}
+
+.popover-title {
+	font-weight: 800;
+	color: #fff;
+	background-color: #bb3b00;
+}
+
+.pace_list .popover {
+	top: -180px !important;
+	font-weight: 500;
+	font-size: 1em;
+}
+

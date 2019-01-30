@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.underline {
+	font-size:18px !important;
+	font:Times New Roman !important;
+}
+
+.blue_font {
+	color:#1E13B9 !important;
+	font-size:18px !important;
+	font:Times New Roman !important;
+}
+
+.bold {
+	font-size:18px !important;
+	font:Times New Roman !important;
+}
+
+.italic {
+	font-size:18px !important;
+	font:Times New Roman !important;
+}
+
+.highlight_green {
+	font-size:18px !important;
+	font:Times New Roman !important;
+}
+
+.highlight_green span {
+	background-color: #30D21E; !important;
+}

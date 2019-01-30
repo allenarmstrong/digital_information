@@ -1,0 +1,11 @@
+iframe {
+    border: none;
+}
+.objective_image {
+    top: -200px;
+    right: -270px;
+}
+
+.objective_image img {
+    max-height: 439px;
+}

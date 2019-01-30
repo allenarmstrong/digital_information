@@ -1,0 +1,22 @@
+.textwhite {
+	color:#ffffff !important;
+	padding-top:5px !important;
+	/*font-weight:bold !important; 
+	font-size:14px !important;*/
+}
+
+
+.drop p, droppable p {
+	color:#ffffff !important;
+	padding-top:5px !important;
+}
+
+
+.textblack {
+	color:#000000 !important; 
+}
+
+
+.pointsblack {
+	color:#000000 !important;
+}

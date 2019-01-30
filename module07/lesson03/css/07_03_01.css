@@ -1,0 +1,9 @@
+.objective_image {
+    right: -240px;
+}
+
+@media screen and (max-width: 1024px) {
+    .objective_image {
+        right: -200px;
+    }
+}

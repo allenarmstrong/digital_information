@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+button.toggleSwitch{
+                width:500px !important;
+                height:1px !important;
+}
+
+
+p.th {
+	color:#fff;
+}
+
+
+.p interactive {
+	color:#fff;
+}
+
+
+table {  
+		margin-bottom: 18px;
+    	width: 100%;
+}
+
+
+.table th, .table td {
+    background-color:#1D9265;
+}
+
+
+.table thead th {
+    background-color:#bb3b00; 
+}
+
+
+.table tr {
+	    border-top: 1px solid #FFDFC4;
+    	line-height: 18px;
+    	padding: 8px;
+    	text-align: left;
+    	vertical-align: top;
+}
+
+
+.table td {
+	    border-top: 1px solid #bb3b00;
+    	line-height: 18px;
+    	padding: 8px;
+    	text-align: left;
+    	vertical-align: top;
+}
+
+
+table .tbody tr:nth-child(2n+1) td {
+    	background-color: #FFDFC4;
+}
+ 
+.filestable {
+	background-color:#C2D69B;
+	font-weight:bold;
+	text-align:center;
+}
+
+.filestd {
+	padding: 8px;
+    text-align: left;
+    vertical-align: top;
+}

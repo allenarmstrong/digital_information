@@ -1,0 +1,61 @@
+
+#computer_container {
+    height: 725px;
+    width: 498px;
+    background-image: url(../images/resume_ts.jpg);
+    background-repeat: no-repeat;
+    background-position: center 20px;
+    margin: 0px auto;
+}
+
+.hotspot {
+    position: relative;
+    width: 30px;
+    height: 29px;
+    background-image: url("../images/links.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: pointer;
+}
+
+#computer_container .tip-top {
+    position: absolute;
+    display: block;
+    height: 30px;
+    width: 29px;
+    cursor: pointer;
+}
+
+#computer_container .tooltip-inner {
+    width: 220px;
+}
+
+#name {
+    top: 90px;
+    left: 237px;
+}
+
+#profile {
+    top: 160px;
+    left: 237px;
+}
+
+#contact {
+    top: 294px;
+    left: 50px;
+}
+
+#experience {
+    top: 260px;
+    left: 350px;
+}
+
+#education {
+    top: 270px;
+    left: 50px;
+}
+
+#skills {
+    top: 400px;
+    left: 50px;
+}

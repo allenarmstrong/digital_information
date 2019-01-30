@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+  <settings>
+    <instructions>Read the following scenarios and determine which is ethical or unethical.</instructions>
+    <css>
+      <width>700</width>
+      <height>350</height>
+    </css>
+  </settings>
+  <question>
+    <type>mc</type>
+    <title>Ethical or Unethical?</title>
+    <quiz>Jessica is creating a website to advertise her pet-sitting services. She found a picture of a dog walker on another company's website. Can she use the image? </quiz>
+    <answer>No</answer>
+    <correct> Great job showing you understand it is unethical and illegal to use someone else's images without permission.</correct>
+    <option>Yes</option>
+    <feedback>Are you sure about this? It sounds like the image is someone else's original work. Make sure images you use are either your own or that they are considered public domain (available for public use).</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+
+  </question>
+  <question>
+    <type>mc</type>
+  <title>Ethical or Unethical?</title>
+    <quiz>Joseph found a cool PowerPoint online that would be perfect for his space exploration presentation. Can he use it?</quiz>
+    <answer>No</answer>
+    <correct>Thank you for flexing your ethical decision-making muscles! You know it's important to do your own work and get permission to use others’ original works.</correct>
+    <option>Yes</option>
+        <feedback>Uh-oh! There are a couple issues with this answer. First, how will Joseph exercise his creative and learning muscles if he doesn't design the PowerPoint himself? Also, unless this PowerPoint is part of the public domain, it is illegal to reproduce it.</feedback>
+        <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Ethical or Unethical?</title>
+    <quiz>Brent is an aspiring author. He has written a story about a young girl, Cindy, who is basically a servant to her stepsisters and stepmother. However, a fairy godmother helps Cindy attend a big ball and meet the man of her dreams. Unfortunately, Cindy has to leave the ball by midnight and doesn't get to give her name to her dream guy. She loses a beautiful slipper as she rushes home, and her "prince charming" searches the town to find the woman whose foot fits. In the end, he finds Cindy, they get married, and live happily ever after. Should Brent try to publish his story?
+</quiz>
+    <answer>No</answer>
+    <correct> Good job understanding it is not enough to simply change a few details of another work and then call it your own. We like your style!</correct>
+    <option>Yes</option>
+    <feedback>Think about the details of this story. Do they sound familiar? Even though the character's name is Cindy, the summary sounds a lot like Cinderella? A bit too similar. Brent should come up with a more original story and give his creative muscles a good workout.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+ <title>Ethical or Unethical?</title>
+    <quiz>Maria took a selfie and posted it on her Facebook page. Now she wants to use the same picture on her blog. Is that okay?</quiz>
+    <answer>Yes</answer>
+    <correct>Absolutely! Since Maria took the picture, it is her property. She may use it in any way she likes.</correct>
+    <option>No</option>
+    <feedback>Think about this scenario a bit more. Maria took the picture, she posted it to her own Facebook account, and she would like to re-use it on her own blog. Since this image is her own property, it is perfectly fine to reuse it.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+ <title>Ethical or Unethical?</title>
+    <quiz>You took pictures at your birthday party and posted them to your Instagram account. A friend has asked you to remove a picture that she is in. Are you obligated to do this? </quiz>
+    <answer>Yes</answer>
+    <correct>You are obviously respectful of your friend's feelings and understand that we all have the right to privacy—even online. Good job remembering the "right to be forgotten" law!</correct>
+    <option>No</option>
+    <feedback>Keep in mind, the right to be forgotten is a law enacted to protect one's privacy.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+</interactive>

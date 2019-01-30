@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <title>Design Match</title>
+    <directions>Determine which designs support the appropriate purpose and audience. Select "Begin" to get started.
+    </directions>
+    <directionsTextVer>Match the design with the appropriate purpose and audience?</directionsTextVer>
+    <innerDirections>Select a design, then select the purpose that you think matches it.</innerDirections>
+    <completeTxt>You matched all items correctly!</completeTxt>
+    <failText>That selection was incorrect.</failText>
+    <leftTitle>Design</leftTitle>
+    <rightTitle>Purpose</rightTitle>
+
+
+    <items>
+        <left>
+            <![CDATA[ <img src="images/depthppt.jpg" alt="The slide is a solid blue with large white font." > ]]></left>
+        <right>Business presentation about yearly profits</right>
+    </items>
+    <items>
+        <left><![CDATA[ <img src="images/girlppt.jpg" alt="The slide is pale pink with green hills, heart-shaped trees and flowers, and a picture box."> ]]></left>
+        <right>Autobiographical project for school</right>
+    </items>
+    <items>
+        <left><![CDATA[ <img src="images/ballppt.jpg" alt="The slide has a basketball sitting on a basketball court.  "> ]]></left>
+        <right>Campaign to raise funds for a sports team</right>
+    </items>
+    <items>
+        <left><![CDATA[ <img src="images/waveppt.jpg" alt="The slide has a picture of ocean waves on the left and a dark blue background with white text on the right."> ]]></left>
+        <right>Academic report on the ecology of local bodies of water</right>
+    </items>
+    <items>
+        <left><![CDATA[ <img src="images/hppt.jpg" alt="The slide has a black background with gray scrolls and an initial inside a purple and white banner. "> ]]></left>
+        <right>Tribute to a friend or family member</right>
+    </items>
+
+</settings>

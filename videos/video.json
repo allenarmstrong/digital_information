@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Office - How to Create an Office Account",
+    "thumb": "../module02/lesson01/media/creatingaccount.png",
+    "keywords": "office, create, account, setup",
+    "description": "Learn how to create a free Microsoft Office Online Account. ",
+    "textversion": "../module02/lesson01/textversion/creatingaccount_txta.htm",
+    "target": "0",
+    "id": "1_pvyoq9vn"
+  },
+  {
+    "title": "Office - Creating New Folders",
+    "thumb": "../module02/lesson01/media/creatingfolder.png",
+    "keywords": "organize, create, folder",
+    "description": "To make the most of your online workplace, it is important to be organized. One way to do this is to create folders to house your documents.",
+    "textversion": "../module02/lesson01/textversion/02_01_05/textversion_01.htm",
+    "target": "1",
+    "id": "1_usgdbax5"
+  },
+  {
+    "title": "Office - Uploading Existing Documents",
+    "thumb": "../module02/lesson01/media/uploadingfile.png",
+    "keywords": "upload, uploading, documents, office, online",
+    "description": "If you have existing documents, you can upload these to your OneDrive.",
+    "textversion": "../module02/lesson01/textversion/02_01_05/textversion_02.htm",
+    "target": "2",
+    "id": "1_lib22n5t"
+  },
+  {
+    "title": "Office - How to Create an Email Signature Line",
+    "thumb": "../module02/lesson02/media/emailsignature.png",
+    "keywords": "create, email, signature, outlook",
+    "description": "Learn how to create an email signature in Outlook.",
+    "textversion": "../module02/lesson02/textversion/02_02_03/textversion01.htm",
+    "target": "3",
+    "id": ""
+  },
+  {
+    "title": "Office - How to Add Attachments",
+    "thumb": "../module02/lesson02/media/addattachments.png",
+    "keywords":"attach, attachments, outlook, email",
+    "description": "You can also attach a variety of things (almost anything saved to your computer) to your email message",
+    "textversion": "../module02/lesson02/textversion/02_02_03/textversion02.htm",
+    "target": "4",
+    "id": ""
+  },
+  {
+    "title": "Office - Let Me Check My Calendar",
+    "thumb": "../module02/lesson02/media/creatingevent.png",
+    "keywords":"outlook, online, events, meetings, request, calendar",
+    "description": "Here is how you can create meeting and events in the calendar.",
+    "textversion": "../module02/lesson02/textversion/02_02_05/textversion_01.htm",
+    "target": "5",
+    "id": ""
+  },
+  {
+    "title": "Word - Creating a List",
+    "thumb": "../module02/lesson03/media/lists1.png",
+    "keywords":"word, lists, numbered, bulletted, formatting",
+    "description": "learn to create a numbered list and practice your formatting skills.",
+    "textversion": "../module02/lesson03/textversion/02_03_08/textversion_01.htm",
+    "target": "6",
+    "id": ""
+  },
+  {
+    "title": "Word - Spacing in Word",
+    "thumb": "../module02/lesson03/media/spacing1.png",
+    "keywords": "word, spacing, formatting, line, settings, paragraph, indent",
+    "description": "Lets go over how to modify paragraph and line settings.",
+    "textversion": "../module02/lesson03/textversion/02_03_09/textversion_01.htm",
+    "target": "7",
+    "id": ""
+  },
+  {
+    "title": "Word - Headers and Footers",
+    "thumb": "../module02/lesson04/media/headerfooter.png",
+    "keywords": "word, headers, footers, top, bottom",
+    "description": "Watch this video to learn how to use the Header & Footer tool",
+    "textversion": "../module02/lesson04/textversion/02_04_05/textversion_02.htm",
+    "target": "8",
+    "id": ""
+  },
+  {
+    "title": "Word - Hyperlinks",
+    "thumb": "../module02/lesson04/media/hyperlink.png",
+    "keywords": "word, hyperlinks, links, page, web, website",
+    "description": "Hyperlinks give words, phrases, or images the ability to open a new page when selected.",
+    "textversion": "../module02/lesson04/textversion/02_04_05/textversion_hl.htm",
+    "target": "9",
+    "id": ""
+  },
+  {
+    "title": "Word - Basic Tables",
+    "thumb": "../module02/lesson04/media/basictable.png",
+    "keywords": "word, basic, tables, create, data, organize",
+    "description": "Watch this Creating a Basic Table video to see how to create a table.",
+    "textversion": "../module02/lesson04/textversion/02_04_05/textversion_03.htm",
+    "target": "10",
+    "id": ""
+  },
+  {
+    "title": "Word - Formatting Tables",
+    "thumb": "../module02/lesson04/media/tableformatting.png",
+    "keywords": "word, basic, tables, format, data, organize, design, layout",
+    "description": "Watch this Table Formatting video to see how to format a table.",
+    "textversion": "../module02/lesson04/textversion/02_04_05/textversion_04.htm",
+    "target": "11",
+    "id": ""
+  },
+  {
+    "title": "Excel - Formatting Data in Excel",
+    "thumb": "../module04/lesson01/media/formatcell.png",
+    "keywords": "excel, cells, format, data, spreadsheet, layout",
+    "description": "Watch this Formatting Data in Excel video to see how to format the cells of your spreadsheet.",
+    "textversion": "../module04/lesson01/textversion/04_01_05/textversion_01.htm",
+    "target": "12",
+    "id": ""
+  },
+  {
+    "title": "Excel - Merging Cells",
+    "thumb": "../module04/lesson01/media/merge.png",
+    "keywords": "excel, cells, format, data, spreadsheet, merge",
+    "description": "Watch this Merging Cells video to learn how to merge cells in a spreadsheet.",
+    "textversion": "../module04/lesson01/textversion/04_01_06/textversion_01.htm",
+    "target": "13",
+    "id": ""
+  },
+  {
+    "title": "Excel - Fill Data",
+    "thumb": "../module04/lesson01/media/filldata.png",
+    "keywords": "excel, cells, format, data, spreadsheet, autofill",
+    "description": "Watch this Fill Data video to learn how use the Fill Handle for quickly auto-filling data.",
+    "textversion": "../module04/lesson01/textversion/04_01_07/textversion_01.htm",
+    "target": "14",
+    "id": ""
+  },
+  {
+    "title": "Excel - Functions",
+    "thumb": "../module04/lesson02/media/function.png",
+    "keywords": "excel, cells, function, data, spreadsheet",
+    "description": "Watch the Functions video to see how to insert a function in a cell.",
+    "textversion": "../module04/lesson02/textversion/04_02_04/textversion_01.htm",
+    "target": "15",
+    "id": ""
+  },
+  {
+    "title": "Excel - Logical Functions",
+    "thumb": "../module04/lesson02/media/logical.png",
+    "keywords": "excel, cells, function, data, spreadsheet, logical",
+    "description": "Watch the Logical Functions video to learn how to create a logical function (also called a conditional formula) using data in a worksheet.",
+    "textversion": "../module04/lesson02/textversion/04_02_05/textversion_01.htm",
+    "target": "16",
+    "id": ""
+  },
+  {
+    "title": "Excel - Pie Chart",
+    "thumb": "../module04/lesson03/media/chart_pie.png",
+    "keywords": "excel, cells, pie, chart, data, spreadsheet",
+    "description": "The Pie Chart video explains how to turn your data into a visually-appealing and purposeful chart.",
+    "textversion": "../module04/lesson03/textversion/04_03_04/textversion_01.htm",
+    "target": "17",
+    "id": ""
+  },
+  {
+    "title": "Excel - Adding a Table",
+    "thumb": "../module04/lesson03/media/table.png",
+    "keywords": "excel, cells, add, table, data, spreadsheet",
+    "description": "Watch the Adding a Table video to learn how to add a table to your spreadsheet.",
+    "textversion": "../module04/lesson03/textversion/04_03_05/textversion_01.htm",
+    "target": "18",
+    "id": ""
+  },
+  {
+    "title": "Excel - Filtering Data",
+    "thumb": "../module04/lesson03/media/filtering.png",
+    "keywords": "excel, cells, filtering, table, data, spreadsheet",
+    "description": "Watch this Filtering Data video to see how to filter the data on your spreadsheet.",
+    "textversion": "../module04/lesson03/textversion/04_03_05/textversion_02.htm",
+    "target": "19",
+    "id": ""
+  },
+  {
+    "title": "Excel - Sorting Data",
+    "thumb": "../module04/lesson03/media/sorting.png",
+    "keywords": "excel, cells, sorting, table, data, spreadsheet",
+    "description": "Watch this Sorting Data video to see how to sort the data on your spreadsheet.",
+    "textversion": "../module04/lesson03/textversion/04_03_07/textversion_01.htm",
+    "target": "20",
+    "id": ""
+  },
+  {
+    "title": "PowerPoint - Insert a Slide",
+    "thumb": "../module07/lesson01/media/insertslide.png",
+    "keywords": "powerpoint, slide, insert",
+    "description": "Watch this Insert a Slide video to learn how to insert a slide.",
+    "textversion": "../module07/lesson01/textversion/07_01_05/textversion_01.htm",
+    "target": "21",
+    "id": ""
+  },
+  {
+    "title": "PowerPoint - Slide Layout",
+    "thumb": "../module07/lesson01/media/slidelayout.png",
+    "keywords": "powerpoint, slide, insert, layout",
+    "description": "Watch this Slide Layout video to learn how to change the layout of a content slide.",
+    "textversion": "../module07/lesson01/textversion/07_01_06/textversion_01.htm",
+    "target": "22",
+    "id": ""
+  },
+  {
+    "title": "PowerPoint - Insert an Image",
+    "thumb": "../module07/lesson02/media/insertpicture.png",
+    "keywords": "powerpoint, slide, insert, image, picture",
+    "description": "Watch this Insert an Image video to learn how to insert a picture onto a PowerPoint slide.",
+    "textversion": "../module07/lesson02/textversion/07_02_03/textversion_01.htm",
+    "target": "23",
+    "id": ""
+  },
+  {
+    "title": "PowerPoint - Insert SmartArt",
+    "thumb": "../module07/lesson02/media/smartart.png",
+    "keywords": "powerpoint, slide, insert, smart, art, smartart",
+    "description": "Watch this SmartArt video to learn how to insert a SmartArt onto a PowerPoint slide.",
+    "textversion": "../module07/lesson02/textversion/07_02_05/textversion_01.htm",
+    "target": "24",
+    "id": ""
+  },
+  {
+    "title": "PowerPoint - Variants",
+    "thumb": "../module07/lesson03/media/themesvariants.png",
+    "keywords": "powerpoint, slide, themes, variants",
+    "description": "Watch this Variants video to learn how to manipulate variants in order to select the most appropriate color combinations.",
+    "textversion": "../module07/lesson03/textversions/07_03_03/textversion_01.htm",
+    "target": "25",
+    "id": ""
+  },
+  {
+    "title": "PowerPoint - Transitions",
+    "thumb": "../module07/lesson04/media/transition.png",
+    "keywords": "powerpoint, slide, transition",
+    "description": "Watch this Transitions video to learn how to apply transitions to slides.",
+    "textversion": "../module07/lesson04/textversions/07_04_02/textversion_02.htm",
+    "target": "26",
+    "id": ""
+  },
+  {
+    "title": "PowerPoint - Animations",
+    "thumb": "../module07/lesson04/media/animation.png",
+    "keywords": "powerpoint, slide, animation",
+    "description": "Watch this Animations video to learn how to apply animations to content on a slide.",
+    "textversion": "../module07/lesson04/textversions/07_04_04/textversion_02.htm",
+    "target": "27",
+    "id": ""
+  }
+]

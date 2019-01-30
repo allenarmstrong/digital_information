@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+p.th {
+	color:#fff;
+}
+
+table {  /* Style added by Tooolwire for a table in Intro to IT Module 8 Lesson 1  */
+		margin-bottom: 18px;
+    	width: 100%;
+}
+
+.table th, .table td {
+    background-color:#006C01; 
+}
+
+.table thead th {
+    background-color:#006C01; 
+}
+
+.table tr {
+	    border-top: 1px solid #D9F9EB; 
+    	line-height: 18px;
+    	padding: 8px;
+    	text-align: left;
+    	vertical-align: top;
+}
+
+.table td {
+	    border-top: 1px solid #bb3b00;
+    	line-height: 18px;
+    	padding: 8px;
+    	text-align: left;
+    	vertical-align: top;
+}
+
+table .tbody tr:nth-child(2n+1) td {
+    	background-color: #E8E8E8; 
+}

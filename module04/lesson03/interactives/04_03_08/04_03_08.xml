@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+  <settings>
+    <instructions>Review the following charts and graphs. Select the option that best reflects what is being communicated.</instructions>
+    <css>
+        <width>900</width>
+        <height>700</height>
+    </css>
+  </settings>
+<question>
+    <type>mc</type>
+    <title><![CDATA[ &nbsp; ]]></title>
+    <quiz><![CDATA[ <img src="images/tweetchart.png" class="showcase frame" alt="Image of a line graph that shows tweets per hour within the UK with happy and sad emoticons from 3/18/2011 to 04/07/2011. On the x-axis, a green line denotes the happy tweets and a red line denotes the sad tweets">]]>What is the purpose of this line graph?
+    </quiz>
+    <answer>To show how many happy and sad emoticons are tweeted per hour in the UK</answer>
+    <correct>Awesome attention to detail! You read the graph heading carefully and identified the correct message of the data.</correct>
+    <option>To show how many people in the UK are happy versus sad </option>
+    <feedback>You’re on the right track, but pay closer attention to all the details in the graph heading.</feedback>
+    <option>To show how many people in the UK use Twitter</option>
+
+    <feedback>Go back and re-read the graph heading to review all the details.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+
+    <question>
+        <type>mc</type>
+        <title><![CDATA[ &nbsp; ]]></title>
+        <quiz><![CDATA[ <img src="images/piechart.jpg" class="showcase frame" alt="Image of a pie chart that asks "What's your favorite pie?" The pumpkin slice is roughly 1/2 the pie while pecan and apple are each about a 1/3rd."> <br>]]>According to this "pie”
+            chart, which type of pie is most popular?
+        </quiz>
+        <answer>Pumpkin</answer>
+        <correct>Pumpkin is the fan favorite! Good job identifying the largest slice of pie on the "pie" chart.
+        </correct>
+        <option>Apple</option>
+        <feedback>Apple pie is yummy, but look again at the size of the pies. Which one is the largest?</feedback>
+        <option>Pecan</option>
+        <feedback>Pecan pie is ooey, gooey, and delicious. But it is not the favorite.</feedback>
+        <failedTitle>That is also incorrect.</failedTitle>
+    </question>
+
+    <question>
+    <type>mc</type>
+        <title><![CDATA[ &nbsp; ]]></title>
+        <quiz><![CDATA[ <img src="images/frychart.jpg" alt="Image is a bar chart that shows French fry consumption by month in 2010. The y-axis Months and x-axis amounts are as follows: January – 5; February – 4; March – 5; April – 5; May – 6; June – 6; July – 9; August – 7; September – 11; October – 6; November –11; and December – 10. "> <br>]]>Which month had the least amount of French fry
+            consumption?
+        </quiz>
+    <answer>February</answer>
+    <correct>It looks like people are taking their New Year's resolutions seriously and staying away from the fries. Good job!</correct>
+    <option>April</option>
+        <feedback>People were pretty good about avoiding fries in April, but there is a month people were even better.
+        </feedback>
+    <option>September</option>
+    <feedback>Wow! Was there a special on French fries this month? Look again for the month with the smallest French fry consumption.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+
+  </question>
+
+</interactive>

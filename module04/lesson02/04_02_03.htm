@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Formatting, Formulas, and Functions</title>
+<meta charset="utf-8" />
+<script>
+    var pg_csslibs = []; // CSS Libs for this Page
+    var pg_jslibs = []; // JS Libs for this Page
+</script>
+<script src="../../global/js/settings.js" id="settingJS"></script>
+</head>
+<body>
+<div id="pageContent"> 
+  <!-- CONTENT GOES HERE -->
+  <h2>A Formula for Success</h2>
+   <hr />
+ 
+  <p>Solve this equation for X:</p> 
+  
+    <img src="images/successformula_animation.gif" alt="excel spreadsheet" class="pull-left top-flush"><img src="images/successformula_b.png" alt="+ Calculator = X" class="pull-left top-flush"><div class="clearfix"></div>
+    <p>If you answered X= Excel, way to go! Excel is commonly used to organize data in a spreadsheet, but it is also an über-calculator, meaning it can solve highly complex equations using formulas. A formula performs calculations using the data in your worksheet. Formulas always begin with an equal sign (=), but the remainder of the formula will change based on your purpose.</p>
+           
+    <h4>Example Formula:</h4> <div class="well">
+				<p>=SUM(B1:B3)  </p>
+				<p>This formula adds cells from B1 to B3 on a worksheet.</p>  </div>
+  
+ 
+  <p>You can type your own formulas into the <strong><span class="dbtip">Function field<span><img src="images/functionfield.png" width="200" alt="function field" /></span></span></strong> and select "Enter" to apply it to your data. </p>
+  <hr />
+  <h2>Follow the Rules </h2>
+<p>For an Excel formula to calculate your data correctly, you must follow certain rules, also known as precedents: </p>
+<ul><li>always begin a formula with an equal sign (=) </li>
+<li>use parentheses to define the <span class="tooltip" data-tip="<strong>Order of operations:</strong> parentheses, exponents, multiplication, division, addition, subtraction" data-position="top">order of operations</span>
+  </li>
+<li>indicate the <span class="tooltip" data-tip="<strong>Cell reference:</strong> cell or range of cells on a worksheet to be calculated in a formula" data-position="top">cell reference</span>  </li>
+	<li>use a dollar sign ($) before the column and the row to indicate the <span class="tooltip" data-tip="<strong>Absolute cell reference:</strong> cell reference in a formula that does not change if the formula is copied and pasted into a new cell or range of cells" data-position="top">absolute cell reference</span>; The absolute cell reference in the following formula will not change if copied and pasted into a new range of cells: =sum($B$1:$B$3)</li></ul>   
+	
+   <div class="well infobox">	<div class="icon_local" data-icon="icon_note" data-alt="Note icon"></div>
+            <div class="content">
+               Excel defaults to <span class="tooltip" data-tip="<strong>Relative cell reference:</strong> cell reference in a formula that changes automatically if the formula is copied and pasted into a new cell or range of cells" data-position="top">relative cell reference</span>; The relative cell reference in the following formula will automatically reflect the function's new location when copied and pasted into a new range of cells: =sum(B1:B3) </div></div></div>
+<!-- END CONTENT -->
+</body>
+</html>

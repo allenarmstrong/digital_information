@@ -1,0 +1,37 @@
+/*======================================
+CSS DOCUMENT FOR MEDIA QUERIES
+HAVE TO CALL IT IN SETTINGS FILE var course_csslibs = ['../global/css/media_queries.css'...
+======================================*/
+
+
+/*-------------------- Large Devices  -------------------------*/
+@media (min-width: 1200px) {
+    #content {
+        padding: 3% 11% 90px 3%;
+    }
+}
+
+/*-------------------- Medium Devices, standard 1330px with educator left column  -------------------------*/
+@media (max-width: 1199px) and (min-width: 992px) {
+    #content {
+        padding: 3% 11% 90px 3%
+    }
+    #footer_inner, main {
+        width: 100% !important;
+    }
+
+    .objective_image {
+        right: -160px;
+    }
+}
+
+/*-------------------- Small Devices, standard 1024px with educator left column  -------------------------*/
+@media (min-width: 768px){
+
+}
+
+/*--------------------  X-Small Devices, phones, etc. -------------------------*/
+@media (max-width: 768px){
+	
+}
+

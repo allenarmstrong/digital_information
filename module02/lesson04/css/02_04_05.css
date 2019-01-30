@@ -1,0 +1,16 @@
+.pop_div {
+    background-color: rgba(220, 78, 9, 0);
+    display: block;
+    position: relative;
+    border-radius: 0;
+    border: none;
+    z-index: 1;
+}
+
+.homekey1 {
+    width: 45px;
+    height: 14px;
+    left: 147px;
+    top: 152px;
+
+}

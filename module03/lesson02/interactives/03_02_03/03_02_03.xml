@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+    <title>Workplace Essentials</title>
+    <directions>Drag the scenario to its correct category. Hint: Each category has three correct scenarios. Select Begin
+        to get started.
+    </directions>
+    <directionsTextVer>Drag the scenario to its correct category. Hint: Each category (Customer Service, Business Ethics, Rules Regulation, and Human Relations) has three correct scenarios.    </directionsTextVer>
+    <defaultFinished>You may have what it takes to become a billionaire (or at least do well on a quiz about workplace
+        essentials). Great job flexing those big brain muscles of yours!
+    </defaultFinished>
+    <draggables>single</draggables>
+    <droppables>append</droppables>
+    <customTextVer><!--textVersion.htm--></customTextVer>
+
+    <prebin></prebin>
+    <bin>
+        <title>Customer Service</title>
+        <text><![CDATA[ &nbsp; ]]></text>
+        <binID>A</binID>
+        <item>
+            <itemText>An angry customer called to complain about a defective product and was sent a replacement free of
+                charge.
+            </itemText>
+        </item>
+        <item>
+            <itemText>After receiving a call from an angry and aggressive client, the employee greeted the next customer
+                with a positive attitude.
+            </itemText>
+        </item>
+        <item>
+            <itemText>A customer needs to return shoes that are too small. The online company provided a free shipping
+                label.
+            </itemText>
+        </item>
+    </bin>
+    <bin>
+        <title>Business Ethics</title>
+        <text><![CDATA[ &nbsp; ]]></text>
+        <binID>B</binID>
+        <item>
+            <itemText>A reporter is offered money in exchange for revealing a source, but she declines the
+                proposition.
+            </itemText>
+        </item>
+        <item>
+            <itemText>An employee receives praise for another employee's work, but he tells the boss who actually
+                deserves the credit.
+            </itemText>
+        </item>
+        <item>
+            <itemText>A company honestly reported its profit loss, which resulted in no bonuses or raises.</itemText>
+        </item>
+    </bin>
+    <bin>
+        <title>Rules Regulations</title>
+        <text><![CDATA[ &nbsp; ]]></text>
+        <binID>C</binID>
+        <item>
+            <itemText>Cell phone use is only allowed during an employee's break.</itemText>
+        </item>
+        <item>
+            <itemText>A restaurant does not hire employees less than 16 years old.</itemText>
+        </item>
+        <item>
+            <itemText>Men must wear a suit and tie, and women must wear a dress, a suit, or a blouse and dress pants
+                when in the office.
+            </itemText>
+        </item>
+    </bin>
+    <bin>
+        <title>Human Relations</title>
+        <text><![CDATA[ &nbsp; ]]></text>
+        <binID>D</binID>
+        <item>
+            <itemText>A company organizes a picnic as a team-building activity.</itemText>
+        </item>
+        <item>
+            <itemText>An employee disagrees with his manager about a decision, so he schedules time to discuss the issue
+                and propose an alternate course of action.
+            </itemText>
+        </item>
+        <item>
+            <itemText>Employees have been trained to communicate effectively in order to work together and share
+                ideas.
+            </itemText>
+        </item>
+    </bin>
+    <postbin></postbin>
+</settings>

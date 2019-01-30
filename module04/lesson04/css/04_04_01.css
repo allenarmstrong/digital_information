@@ -1,0 +1,5 @@
+@media (max-width: 1199px) and (min-width: 992px) {
+    .objective_image {
+        right: -240px !important;
+    }
+}

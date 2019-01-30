@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+    <settings>
+        <instructions>Answer the following questions to show how to use PowerPoint to conduct each activity.
+        </instructions>
+        <css>
+            <width>700</width>
+            <height>550</height>
+        </css>
+    </settings>
+    <question>
+        <type>mc</type>
+        <title><![CDATA[ &nbsp; ]]></title>
+        <quiz>
+            <![CDATA[ <img src="images/hardread_nk.jpg" alt=" Image of PowerPoint slide with a blue background and red text."> <br>]]>
+            What is one way to fix the clarity?
+        </quiz>
+        <answer>Make the text color lighter, like white or light gray.</answer>
+        <correct>Awesome thinking! Light colors show up clearly on dark backgrounds.</correct>
+        <option>Add a relevant picture.</option>
+        <feedback>Images add visual interest, but they do not make text appear clearer.
+        </feedback>
+        <option>Use a different font style.</option>
+        <feedback>Changing the font style won't make the text appear clearer. Can you think of something in this lesson
+            that solves clarity problems?
+        </feedback>
+        <failedTitle>That is also incorrect.</failedTitle>
+    </question>
+
+    <question>
+        <type>mc</type>
+        <title><![CDATA[ &nbsp; ]]></title>
+
+        <quiz>A student is creating a PowerPoint presentation to explain her scientific experiment and its results to
+            her teacher and classmates. Which theme below is most appropriate for this purpose?
+        </quiz>
+        <answer>
+            <![CDATA[ <img src="images/purpleppt_nk.jpg"  alt="Image is a PowerPoint slide with a deep purple background and a narrow vertical bar at the top right-hand corner.">]]></answer>
+        <correct>Your hat size is increasing because your brain is growing! This slide has style, yet it is also
+            streamlined, making it more appropriate for academic purposes.
+        </correct>
+        <option>
+            <![CDATA[ <img src="images/prettyppt_nk.jpg"  alt="Image of a PowerPoint slide that has a blue floral theme.">]]></option>
+        <feedback>This theme is pretty, but ask yourself whether it's appropriate for academic purposes.
+        </feedback>
+        <failedTitle>That is also incorrect.</failedTitle>
+
+    </question>
+    <question>
+        <type>mc</type>
+        <title><![CDATA[ &nbsp; ]]></title>
+        <quiz>A baby food company is creating a PowerPoint to present a new product to a focus group of mothers. Which
+            variant is most appropriate for the purpose and audience?
+        </quiz>
+        <answer>Light yellow</answer>
+        <correct>Great thinking! Light yellow is a gender-neutral color, and it is soft and happy (like a lot of
+            babies).
+        </correct>
+        <option>Dark red</option>
+        <feedback>Each time you try, you exercise your brain. Think about what the color red typically represents and
+            evaluate if it is effective for the product and audience.
+        </feedback>
+        <option>Deep purple</option>
+        <feedback>Your brain gets stronger when you think. Contemplate what a "deep" color looks like and decide whether
+            this supports the purpose and audience.
+        </feedback>
+        <failedTitle>That is also incorrect.</failedTitle>
+
+    </question>
+</interactive>

@@ -1,0 +1,323 @@
+@charset "utf-8"; 
+/* CSS Document */
+
+a.title {
+	background-color:#F94D00 !important;
+}
+
+.bulletnofloat {
+	float:none !important;
+}
+
+
+.blockquotecustom {
+	size:10px !important;
+	color:#666 !important;
+}
+
+
+div.accordion {
+	background-color:#FFF !important;
+}
+
+
+.bin {
+	height:1px !important;
+	border:1px !important;
+}
+
+
+.caption {
+	padding-top:5px !important;
+}
+
+
+.carousel-prev,.carousel-next {
+	color:#F94D00 !important;
+}
+
+
+.contentspecial {
+	/*float:left !important; */
+	padding:3% 3% 90px !important;
+	width:94% !important;
+	padding:0 !important;
+	background-color:#FFF !important;
+}
+
+
+}
+.copyright {
+	padding-top:5px !important;
+}
+
+
+/*div.colterm {
+	width:28%;
+	margin:5px;
+	padding-left:4px;
+	padding-top:4px;
+	padding-bottom:4px;
+	color:black;
+	weight:bold;
+	background-color:#f5f5f5;
+	border:1px;
+	border-color:#d0d0d0;
+	float:left;
+}
+
+
+div.coldef {
+	width:68%;
+	margin:5px;
+	padding:4px;
+	padding-top:4px;
+	padding-bottom:4px;
+	color:black;
+	border:1px;
+	border-color:#d0d0d0;
+	float:right;
+}
+
+
+div.coldef2 {
+	width:68%;
+	margin:5px;
+	padding:4px;
+	padding-top:4px;
+	padding-bottom:4px;
+	color:black;
+	border:1px;
+	border-color:#d0d0d0;
+	float:right;
+}
+
+
+div.coldivisor {
+	width:28%;
+	margin:5px;
+	padding-left:4px;
+	padding-top:4px;
+	padding-bottom:4px;
+	color:black;
+	weight:bold;
+	background-color:#D3D3D3;
+	border:1px;
+	border-color:#d0d0d0;
+	float:middle;
+	text-align:center;
+} */
+
+
+.draggable {
+	padding-top:5px !important;
+	margin-top:5px !important;
+}
+
+
+.flipcard-orange {
+	color:#F94D00 !important;
+}
+
+
+.image-border {
+	border:10px !important;
+	border-color:#E8E8E8 !important;
+}
+
+
+.image-container.left,.image-container.right,.image-container img {
+	/*width:100% !important;
+	min-width:200px !important;*/
+}
+
+
+.ip_tooltip {
+	color:#FFF !important;
+}
+
+
+ip_img32 {
+	color:#FFF !important;
+}
+
+
+.navbar {
+	background-color:#F94D00 !important;
+}
+
+
+.pcenter {
+	text-align:center !important;
+}
+
+
+p.tabletitles {
+	color:#fff !important;
+}
+
+
+.blockquote p {
+	font-size:14px !important;
+	line-height: 20px !important;
+}
+
+
+.slideshow {
+	background-color:#006C01;
+}
+
+
+table {  /* Style added by Tooolwire for a table in Intro to IT Module 8 Lesson 1  */
+		margin-bottom: 18px;
+    	width: 100%;
+}
+
+
+/*.table-striped:th, table-striped:td {
+	margin-left:50px !important;
+	margin-right:50px !important; 
+	margin-top:50px !important;
+	margin-bottom:50px !important;
+} */
+
+
+.next {
+	color:#F94D00 !important;
+	background-color:#FDF6E0 !important;
+}
+
+.normaltableheadergreen {  
+	background-color:#006C01;
+}
+
+
+.ol numberfix {
+	margin-left: -50px;
+}
+
+
+.p-imagemarker {
+	color:#FFF !important;
+}
+
+
+.prev {
+	color:#F94D00 !important;
+	background-color:#FDF6E0 !important;
+}
+
+
+/*.row545 {
+	clear:both;
+	content:"";
+	display:table;
+	margin-bottom: 0px;
+    margin-left: 0;
+
+.row:nth-of-type(even) {
+	background-color:#F3F3F3 !important;
+	clear: both;
+	content: "";
+	display: table;
+	margin-bottom: 30 !important;
+	margin-left: 0; 
+} */
+
+
+.sizer {
+	max-width:450px !important; 
+	height:auto !important;
+	width:auto !important;
+}
+
+
+.slider {
+	background-color:#FDF6E0 !important;
+}
+
+
+.slideshow {
+	border:10px solid #E8E8E8 !important;
+}
+
+
+.slideshow-networks {
+	background-color: #F8F8F8;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+    height: 400px;
+    margin: 0 auto 20px;
+    overflow: hidden;
+    position: relative;
+    width: 780px;
+}
+
+
+/*.tdcustom {
+	border:1px !important;
+	border-color:#006C01 !important;
+}*/
+
+.theadbgstandard { 
+	background-color:#006C01 !important; 
+	color:#fff !important;
+}
+
+
+.tdlightbg {
+	background-color:#D9F9EB !important;
+	vertical-align:top !important;
+}
+
+
+.toggleSwitch {
+	color:#F94D00 !important;
+}
+
+
+div {}/* */
+
+.ui_card {
+	border:#F94D00 !important;
+	/*border-bottom-color:#F94D00 !important;
+	border-left-color:#F94D00 !important;
+	border-right-color:#F94D00 !important;
+	border-top-color:#F94D00 !important;*/
+}
+
+
+.ui_flipped,.ui_flip {
+	/*margin:5px !important;*/
+	padding-top:5px !important;
+	padding-bottom:5px !important;
+	padding-left:5px !important;
+	padding-right:5px !important;
+}
+
+
+/*.ui_interactive,.ui_slides,.ui_assessment,.ui_slide_drag_and_drop,.ui_slide_mc,.ui_slide_tf {
+	border:10px !important;
+	border-color:#e8e8e8 !important;
+	border-style:solid !important;
+	outline-style:solid !important;
+	outline-color:#e8e8e8 !important;
+	outline-width:10px !important; 
+}*/
+
+
+ul.normal {
+	margin-left: -50px !important;
+	
+	
+.nested {
+	list-style-type:square !important;
+}
+
+
+p.flip-back {
+	padding-top:7px !important;
+	padding-bottom:7px !important;
+	padding-left:7px !important;
+	padding-right:7px !important;
+}

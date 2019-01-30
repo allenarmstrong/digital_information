@@ -1,0 +1,49 @@
+.page-shadow {
+    overflow: visible !important;
+    background-color: #fff;
+    border: 1px solid #C4C9B5 !important;
+    border-collapse: inherit;
+}
+
+.page-shadow:before, .page-shadow:after
+{
+    z-index: -1;
+    position: absolute;
+    content: "";
+    bottom: 101px;
+    left: 40px;
+    width: 50%;
+    top: 80%;
+    max-width: 300px;
+    background: #fff;
+    -webkit-box-shadow: 0 15px 10px #777;
+    -moz-box-shadow: 0 15px 10px #777;
+    box-shadow: 0 15px 10px #777;
+    -webkit-transform: rotate(-3deg);
+    -moz-transform: rotate(-3deg);
+    -o-transform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+    transform: rotate(-3deg);
+}
+.page-shadow:after
+{
+    -webkit-transform: rotate(3deg);
+    -moz-transform: rotate(3deg);
+    -o-transform: rotate(3deg);
+    -ms-transform: rotate(3deg);
+    transform: rotate(3deg);
+    right: 130px;
+    left: auto;
+}
+
+th {
+    text-align: center;
+}
+
+.table_needs {
+    width: 10%;
+}
+
+.table_cs, .table_p2p {
+    width: 45%;
+}

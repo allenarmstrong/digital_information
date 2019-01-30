@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Interactive</title>
+<meta charset="utf-8" />
+<script>
+    var il_csslibs = []; // CSS Libs for this Page
+    var il_jslibs = []; // JS Libs for this Page
+</script>
+<script src="js/config.js" id="settingJS"></script>
+</head>
+<body>
+<div id="ilContent">
+<!-- CONTENT GOES HERE -->
+<div class="ui_interactive" data-height="380">
+  <div class="ui_slides">
+    <div class="ui_assessment ui_slide_drag_and_drop" data-droppables="append" data-draggables="single">
+      <h2>Drag the file extensions to the operating system you think they<br>
+        are most compatible with.</h2>
+      <p>Here are the file types</p>
+      <div class="droppable" data-label="A">
+        <p class="textwhite">Windows PC Laptop</p>
+        <div class="bin">
+          <ul class="textwhite">
+          </ul>
+        </div>
+      </div>
+      <div class="droppable" data-label="B">
+        <p class="textwhite">Apple OS X Laptop</p>
+        <div class="bin">
+          <ul class="textwhite">
+          </ul>
+        </div>
+      </div>
+      <br class="clear">
+      <p>And here are the file extensions</p>
+      <div class="draggable" data-label="A">
+        <p>AVI</p>
+      </div>
+      <div class="draggable" data-label="B">
+        <p>MOV</p>
+      </div>
+      <div class="draggable" data-label="B">
+        <p>AAC</p>
+      </div>
+      <div class="draggable" data-label="A">
+        <p>OGG</p>
+      </div>
+      <div class="draggable" data-label="B">
+        <p>PAGES</p>
+      </div>
+      <div class="draggable" data-label="B">
+        <p>DMG</p>
+      </div>
+      <div class="draggable" data-label="A">
+        <p>EXE</p>
+      </div>
+      <div class="draggable" data-label="B">
+        <p>KEY</p>
+      </div>
+      <div class="ui_dialog correct" title="Correct!">
+        <p>Great job! You dropped all the files into the correct boxes.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END CONTENT -->
+</body>
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-route/angular-route.min.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="bower_components/videogular/videogular.js"></script>
+    <script src="bower_components/videogular-controls/vg-controls.js"></script>
+    <script src="bower_components/videogular-overlay-play/vg-overlay-play.js"></script>
+    <script src="bower_components/videogular-poster/vg-poster.js"></script>
+    <script src="bower_components/videogular-buffering/vg-buffering.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="jquery.xml2json.js"></script>
+    <script src="app.js"></script>
+    <script src="video.js"></script>
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../global/css/theme.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <title>Digital IT Video Gallery</title>
+</head>
+<body ng-app="VideoGallery">
+<div class="wrapper">
+    <main>
+        <div class="container">
+            <div id="breadcrumbs"><h1>Video Gallery</h1>
+                <span role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false"
+                      aria-controls="collapseExample" class="chev glyphicon glyphicon-chevron-down"
+                      aria-hidden="true"></span>
+
+                <div class="collapse" id="collapseExample">
+                    <div class="well">
+                        <div class="row">
+                            <div class="col-lg-6">Order Alphabetically:<BR><BR>
+                                <label for="a-z">A-Z <span class="glyphicon glyphicon-arrow-up"></span></label>
+                                <input type="radio" ng-model="reverse" ng-value="false" id="a-z"> or
+                                <label for="z-a" id="z-a">Z-A <span
+                                        class="glyphicon glyphicon-arrow-down"></span></label>
+                                <input type="radio" ng-model="reverse" ng-value="true"></div>
+                            <div class="col-lg-6 style-2">Search:<BR>
+                                <input type="text" placeholder="Enter Your Search" ng-model="query"></div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <div class="row videogrid" ng-controller="VideoGrid">
+                <div ng-controller="HomeCtrl as controller" class="col-lg-3 col-md-4 col-xs-6 thumb"
+                     ng-repeat="vid in videos | filter:query | orderBy:'title':reverse">
+                    <a ng-click="controller.setVideo(vid.target)" data-toggle="modal"
+                       data-target=".{{ vid.target }}">{{ vid.title }}<img class="img-responsive thumbnail"
+                                                                           ng-src="{{ vid.thumb }}"/></a>
+
+                    <div class="modal fade {{ vid.target }}" id=" myModal" tabindex="-1" role="dialog"
+                         aria-labelledby="myModalLabel">
+                        <div class="modal-dialog modal-lg" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                                            aria-hidden="true">&times;</span></button>
+                                    <h4 class="modal-title" id="myModalLabel">{{ vid.title }}</h4>
+                                </div>
+                                <div class="modal-body">
+
+                                    <div class="videogular-container" >
+                                        <div id="{{ vid.entryID }}" data-kaltura object="vid" ></div>
+                                    </div>
+                                    <div class="info">
+                                        <strong>Title: </strong>{{ vid.title }}<br>
+                                        <strong>Keywords: </strong>{{ vid.keywords }}<br>
+                                        <strong>Description: </strong>{{ vid.description }}
+                                        <BR><BR>
+                                        <button type="button" class="toggleSwitch btn btn-primary"
+                                                data-toggle="collapse" data-target="#text{{ vid.target }}">
+                                            Show Text Version
+                                        </button>
+                                        <div id="text{{ vid.target }}" class="collapse"
+                                             ng-include="vid.textversion"></div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </main>
+</div>
+</body>
+<script>
+
+    $('#collapseExample').on('shown.bs.collapse', function () {
+        $(".chev").addClass('glyphicon-chevron-up').removeClass('glyphicon-chevron-down');
+    });
+
+    $('#collapseExample').on('hidden.bs.collapse', function () {
+        $(".chev").addClass('glyphicon-chevron-down').removeClass('glyphicon-chevron-up');
+    });
+
+    $('body').on('hidden.bs.modal', '.modal', function () {
+        $('video').trigger('pause');
+    });
+</script>
+</html>	

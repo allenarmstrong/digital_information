@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Excel Basics</title>
+<script>
+	var isexternal = true; // Loads External Assets
+</script>
+<script src="../../../global/js/settings.js" id="settingJS"></script>
+</head>
+<body>
+<div id="externalContent">
+<!-- PLACE CONTENT HERE -->
+<h2><span class="lesson_number">04.06</span> <span class="lang" data-term="module_name:uc">Module</span> <span class="unlock mnumber">Four</span> Project</h2>
+<hr/>
+<h4>Directions</h4><hr />
+<p>You have read about the Excel-lent things you can do with an Excel spreadsheet. Now it's time to apply what you've learned. 
+You will be designing a meal from a fast food restaurant and analyzing the nutritional data to determine which menu item has the most calories from fat. Please complete each step in order and follow all directions carefully.  </p>     <br>
+   
+   <div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapseTwo">
+        <h3 class="panel-title"> Step One: Prepare your Excel Spreadsheet</h3>
+      </div>
+      <div id="collapseTwo" class="collapse">
+        <div class="panel-body">
+   
+<ol class="upper-alpha">  <li>Open a new Excel Online worksheet. Type the following column headings in the designated column: <ul><li>Column A – Menu Item </li>
+<li>Column B – Calories</li>
+<li>Column C – Fat Calories</li>
+<li>Column D – Non-Fat Calories </li>
+<li>Column E – Percentage of Fat</li></ul></li>
+<li>Type the following row headings in the designated row: 
+<ul><li>Row 2 – (Entrée) </li>
+<li>Row 3 – (Side) </li>
+<li>Row 4 – (Dessert) </li>
+<li>Row 5 – (Drink) </li> 
+<li>Row 6 – Total </li></ul></li></ol></div></div></div>
+   <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapseThree">
+        <h3 class="panel-title">Step Two: Design Your Meal</h3>
+      </div>
+      <div id="collapseThree" class="collapse">
+        <div class="panel-body">
+
+<ol class="upper-alpha">  <li>Choose one fast food restaurant from the choices below. Open the link to access the menu options and nutritional data.  
+ <ul><li><a href="https://www.bk.com/pdfs/nutrition.pdf" target="_blank" class="external-link">Burger King</a> </li>
+<li><a href="http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf" target="_blank" class="external-link">McDonald's</a> </li>
+<li><a href="https://www.subway.com/Nutrition/Files/NutritionValues.pdf" target="_blank" class="external-link">Subway</a> </li>
+<li><a href="https://www.tacobell.com/food/nutrition/info" target="_blank" class="external-link">Taco Bell</a> </li>
+<li><a href="http://www.wendys.com/" target="_blank" class="external-link">Wendy's </a></li></ul>
+<li>Hyperlink the heading Menu Items on your spreadsheet to the fast food restaurant's nutritional data.</li>   
+<li>Design a meal you are likely to eat. Select one entrée, one side dish, one dessert item, and one drink. When you make your selections, replace the current row headings in column A (Entrée, Side, Drink, and Dessert) with the name of your chosen menu item. Fill in each item's calories and calories from fat from the restaurant link. </li>
+<li>Format your data (all columns) as a table. </li></ol></div></div></div>
+   <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapseFour">
+        <h3 class="panel-title">Step Three: Calculate Your Meal</h3>
+      </div>
+      <div id="collapseFour" class="collapse">
+        <div class="panel-body"> 
+<p>Perform the following functions on your spreadsheet to determine the nutritional data of your meal: </p>
+<ol class="upper-alpha"><li>To figure out non-fat calories, use a formula to subtract the fat calories from the total calories. </li>
+<li>To figure out the percentage of calories from fat, use a formula to divide fat calories by calories. (HINT: Use "/" to divide)  </li>
+<li>Format the cells in column E for percentage (%).  </li>
+<li>To figure out total calories, total fat calories, and total non-fat calories, use the AutoSum function.  </li> 
+<li>To figure out the total percentage of fat in cell E6 for the meal, divide total fat calories by total calories.</li></ol></div></div></div>
+   <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapseFive">
+        <h3 class="panel-title">Step Four: Analyze the Data</h3>
+      </div>
+      <div id="collapseFive" class="collapse">
+        <div class="panel-body">
+<p>Healthy guidelines recommend limiting all sources of fat to 20 to 35 percent of your daily calories. Fat has 9 calories per gram. Based on a 2,000-calorie-a-day diet, this amounts to about 400 to 700 calories from fat per day. Per meal (at three meals per day), calories from fat should be between 133 and 233. </p>
+<p>On your Excel spreadsheet, create a 2-D Column Chart to compare the total calories and fat calories in each item of your meal: </p>
+<ol class="upper-alpha"><li>Select the data in columns A, C, and D and rows 1-6 (HINT: Hide column B before selecting the data). </li>
+<li>Title your chart as Fat Calories and Non-Fat Calories in Meal. </li>
+<li>Title your vertical axis as Calories. </li>
+<li>Move the chart to the right, so your cell data is visible. </li>
+<li>Based on your chart, which food is highest in fat calories? </li> 
+<li>If your meal has fewer than 133 calories from fat, highlight C6 in yellow. If it has between 133 and 233 calories from fat, highlight C6 in green. If it has more than 233, highlight C6 in red.  </li>
+<li>In cell C7, insert an IF function to determine whether your meal has an appropriate amount of calories from fat. (HINT: use &equals;IF&lpar;and&lpar;133&lt;C6,C6&lt;233&rpar;,&quot;Healthy&quot;,&quot;Unhealthy&quot;) as your logic test). If the value is good, make the cell read "healthy." If the value is not within the range, make the cell read "unhealthy." </li></ol>  </div></div></div>
+   <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#collapseSix">
+        <h3 class="panel-title">Step Five: Save Your Spreadsheet </h3>
+      </div>
+      <div id="collapseSix" class="collapse">
+        <div class="panel-body"> <p>Save your Excel spreadsheet to your OneDrive using the file name format, "LastNameFirstName_M4L6_Food Name Highest in Fat Calories." For example, if your name is Jane Smith and the food with the highest fat calories is Pizza, you would save the file as "SmithJane_M4L6_Pizza.”</p>
+    
+
+        </div></div>
+
+
+   </div>
+</div>
+<hr /><a href="project_02.rtf" class="save">Save and Print</a>
+
+
+<!-- END CONTENT --></div>
+</body>
+</html>

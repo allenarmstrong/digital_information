@@ -1,0 +1,1 @@
+ 		window.onload = function (){              clickNReveal = new clickNReveal.parseXML("xml/rollover.xml");         } 		

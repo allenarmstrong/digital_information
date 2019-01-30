@@ -1,0 +1,51 @@
+#peripherals h1 {
+    font-size: 35px;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+    color: #005540;
+}
+
+#peripherals h3 {
+    font-size: 16px;
+    padding-top: 0px;
+    font-weight: lighter;
+}
+
+#peripherals .double {
+    border-right: 1px dotted;
+    border-left: 1px dotted;
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    #peripherals .double {
+        border-right: none;
+        border-left: none;
+    }
+}
+
+#peripherals img {
+    padding: 10px 0px;
+}
+
+#peripherals .brownbox {
+    background-color: #bb3b00;
+    color: #fff;
+    padding: 10px;
+    width: 280px;
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+    #peripherals .brownbox {
+        width: 230px;
+    }
+}
+
+#peripherals .brownbox ul {
+    margin-bottom: 3px;
+}
+
+.image-container .caption {
+	text-align: left !important;
+	}
+
+

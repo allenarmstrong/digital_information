@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>Toolwire HTML Puzzke</title>
+    <script type="text/javascript" src="js/jquery-1.6.2.js"></script>    <!--JS files called to run the assessment -->
+    <script src="js/jquery-1.6.2.js"></script>
+    <script src="js/libs/jquery.ui.core.js"></script>
+    <script src="js/libs/jquery.ui.widget.js"></script>
+    <script src="js/libs/jquery.ui.mouse.js"></script>
+    <script src="js/libs/jquery.ui.draggable.js"></script>
+    <script src="js/libs/jquery.ui.droppable.js"></script>
+    <script src="js/libs/jquery.ui.touch.js"></script>
+    <script src="js/main1.js"></script>
+    <script src="js/DnD1.js"></script>
+    <script language="javascript">        <!--Function to count answers and accomodate different browsers -->
+    window.onload = function () {
+        XMLPARSING = new XMLParsing.parseXML("data/gamedata1.xml");
+    }
+    </script>
+    <link href="css/cssReset.css" rel="stylesheet" type="text/css"/>
+    <link href="css/style1.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+<div id="mainDiv">
+    <img id="BGImg" src="assets/text_editor.png"/>
+    <div id="dropDiv"></div>
+    <div id="dragDiv"></div>
+    <div id="submitBtn" class="BtnClass"><span> Submit </span></div>
+    <div id="startOver" class="BtnClass"><span>Start Over</span></div>
+    <div id="feedbacktext"></div>
+    <div id="instructionText"></div>
+    <img id="browserImg" src="assets/browser_win.png"/>
+    <img id="unbindDrag" src="assets/transparent_box.png"/>
+</div>
+
+<!--<div class="interactive" data-src="../interactive/htmlPuzzle/htmlPuzzle.html:652:672"> Code to have STV tab appear in popup 
+
+        <p>Click and drag each HTML tag into the proper sequence to make the web page appear.</p>
+        
+        <p>open html tag</p>
+        
+        <p>Close html tag</p>
+        
+        <p>title tag</p>
+        
+        <p>meta tag</p>
+        
+        <p>open body tag</p>
+        
+        <p>close body tag</p>
+        
+        <p>"a" tag</p>
+        
+        <p>open head tag</p>
+        
+        <p>close head tag</p>
+        
+        <p>open figcaption tag</p>
+        
+        <p>close figcaption tag with closing "a" tag</p>
+        
+        <p>open div tag</p>
+        
+        <p>close div tag</p>
+        
+        <p>img tag</p>
+        
+        <p>Goood work!</p>
+
+</div>-->
+
+</body>
+</html>

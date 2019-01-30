@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+  <settings>
+    <instructions>Read each question or statement and select the best answer.</instructions>
+    <css>
+      <width>700</width>
+      <height>350</height>
+    </css>
+  </settings>
+  <question>
+    <type>mc</type>
+    <title>Project Performance</title>
+    <quiz>Constructive criticism deals with a person's behavior not the person. </quiz>
+    <answer>True</answer>
+    <correct> There is no constructive criticism to offer. Great job remembering that effective criticism seeks to change a behavior not a person.</correct>
+    <option>False</option>
+      <feedback>Here is some constructive criticism: Try re-reading the lesson in order to select the correct
+          answer. Notice this feedback doesn't deal with you as a person but rather your performance on this question.
+      </feedback>
+      <failedTitle>That is also incorrect.</failedTitle>
+
+
+  </question>
+  <question>
+    <type>mc</type>
+  <title>Project Performance</title>
+    <quiz>Which of the following is an example of constructive criticism for a friend who bites her nails? </quiz>
+    <answer>Your nails would be so pretty if you didn't bite them.</answer>
+    <correct>You have a knack for focusing on your friend's behavior and posing a positive outcome if the behavior changes. Great thinking!</correct>
+    <option>You are so disgusting!</option>
+        <feedback>Slime is disgusting. Roadkill is disgusting. Spoiled milk is disgusting. Why would you lump your friend in with these? Think of a better way to provide feedback. </feedback>
+<option>You should quit biting your nails.</option><feedback> Your thought process is on the right track, but the phrase "You should" sounds a bit bossy. Try to think of constructive criticism that sounds more motivating.   </feedback>
+<failedTitle>That is also incorrect.</failedTitle>
+
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Project Performance</title>
+    <quiz>What is the ultimate goal of conflict resolution?
+</quiz>
+    <answer>Achieve a solution that is acceptable to all parties involved. </answer>
+    <correct> A win-win is always best. Good job determining the optimal goal of conflict resolution.</correct>
+    <option>Provide a solution so one person gets what they want.</option>
+      <feedback>It's a cliché, but there is no "I" in team. Effective conflict resolution seeks a solution that is good
+          for everyone involved.
+      </feedback>
+      <option>Quickly find a solution regardless of how the parties involved feel.</option>
+      <feedback>Quick is nice, but it's more important for a resolution to satisfy as many people as possible.
+      </feedback>
+      <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+ <title>Project Performance</title>
+    <quiz>A project manager receives an email stating that an important presentation will be turned in a day late. What aspect of the project should be adjusted?</quiz>
+    <answer>Time</answer>
+    <correct>You are thinking like a project manager! Good job seeing the project timeline needs to be adjusted.</correct>
+    <option>Cost</option>
+    <feedback>While cost may be impacted, at this point the project manager may not know an exact figure to document. Think about what aspect of the project will change immediately.</feedback>
+    <option>Resources</option><feedback>The presentation is still being completed, so it does not sound like resources will change. What aspect of the project should be altered?</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+ </interactive>

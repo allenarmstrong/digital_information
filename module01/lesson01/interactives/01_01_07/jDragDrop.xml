@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+    <title>TITLE HeRE</title>
+	<directions></directions>	
+	<directionsTextVer></directionsTextVer>
+	<defaultFinished></defaultFinished>
+	<draggables>multiple</draggables>
+	<droppables>append</droppables>
+	<customTextVer><!--textVersion.htm--></customTextVer>
+
+
+	<prebin><![CDATA[    ]]></prebin>
+	<bin>
+	  <title></title>
+	  <text></text>
+	  <binID></binID>
+	  <item>
+	    <correct></correct>
+		<incorrect></incorrect>
+		<itemText></itemText>
+      </item>
+	  <item>
+		<itemText></itemText>
+      </item>
+	  <item>
+		<itemText></itemText>
+      </item>
+	</bin>
+	
+	<bin>
+	  <title></title>
+	  <text></text>
+	  <binID></binID>
+	  <item>
+		<itemText></itemText>
+      </item>
+	  <item>
+		<itemText></itemText>
+      </item>
+	  <item>
+		<itemText></itemText>
+      </item>
+	</bin>
+	
+	<postbin><![CDATA[  <p>This is a place to add content after...</p>  ]]></postbin>
+	
+</settings>

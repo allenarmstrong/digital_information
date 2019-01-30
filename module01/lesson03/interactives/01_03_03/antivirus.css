@@ -1,0 +1,43 @@
+/* CSS Document */
+.ui_interactive p {
+	margin-bottom: 0px;
+}
+.ui-slideshow-item {
+	overflow:hidden;
+}
+.ui-slideshow-item .right {
+	margin-top: 20px;
+}
+.spaceit {
+	margin-top: 10px;
+	border-bottom: 1px #000 solid;
+	color: #dc5728 !important;
+	font-weight: bold;
+}
+.fify {
+	width: 50%;
+}
+.row {
+	margin-bottom: 5px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.col3 {
+	margin-right: 2%;
+	width: 30%;
+	height: 128px;
+}
+.col2 {
+	margin-right: 2%;
+	width: 47%;
+}
+.col3 p, .col2 p {
+	margin-left: 2px !important;
+	margin-right: 2px !important;
+}
+.col2, .col3 {
+	border-right: 1px black solid;
+}
+.end {
+	border-right-style: none;
+}

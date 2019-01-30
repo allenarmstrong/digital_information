@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+    <instructionText1>
+        <![CDATA[Drag each HTML tag into the proper sequence to make the web page appear.]]></instructionText1>
+    <instructionText2><![CDATA[You did it! Great work!]]></instructionText2>
+    <DragAndDrop>
+        <drag id="drag0" correctDropPos="1" position="absolute" left="300px" top="545px" width="140px" height="20px"
+              border="" z-index="99" correctDragFeedback="docCorrect">
+            <dragText><![CDATA[&lt;!DOCTYPE html&gt;]]></dragText>
+        </drag>
+        <drag id="drag1" correctDropPos="2" position="absolute" left="6px" top="545px" width="50px" height="20px"
+              border="" z-index="99" correctDragFeedback="htmlCorrect">
+            <dragText><![CDATA[&lt;html&gt;]]></dragText>
+        </drag>
+        <drag id="drag2" correctDropPos="9" position="absolute" left="70px" top="545px" width="55px" height="20px"
+              border="" z-index="99" correctDragFeedback="closingCorrect">
+            <dragText><![CDATA[&lt;/html&gt;]]></dragText>
+        </drag>
+        <drag id="drag3" correctDropPos="3" position="absolute" left="160px" top="545px" width="55px" height="20px"
+              border="" z-index="99" correctDragFeedback="headCorrect">
+            <dragText><![CDATA[&lt;head&gt;]]></dragText>
+        </drag>
+        <drag id="drag4" correctDropPos="5" position="absolute" left="230px" top="545px" width="60px" height="20px"
+              border="" z-index="99" correctDragFeedback="closingCorrect">
+            <dragText><![CDATA[&lt;/head&gt;]]></dragText>
+        </drag>
+        <drag id="drag5" correctDropPos="4" position="absolute" left="6px" top="572px" width="300px" height="20px"
+              border="" z-index="99" correctDragFeedback="titleCorrect">
+            <dragText><![CDATA[&lt;title&gt;This is the Web Page's Title &lt;/title&gt;]]></dragText>
+        </drag>
+        <drag id="drag6" correctDropPos="6" position="absolute" left="6px" top="597px" width="55px" height="20px"
+              border="" z-index="99" correctDragFeedback="bodyCorrect">
+            <dragText><![CDATA[&lt;body&gt;]]></dragText>
+        </drag>
+        <drag id="drag7" correctDropPos="8" position="absolute" left="73px" top="597px" width="60px" height="20px"
+              border="" z-index="99" correctDragFeedback="closingCorrect">
+            <dragText><![CDATA[&lt;/body&gt;]]></dragText>
+        </drag>
+        <drag id="drag8" correctDropPos="7" position="absolute" left="6px" top="622px" width="465px" height="20px"
+              border="" z-index="99" correctDragFeedback="fontCorrect">
+            <dragText><![CDATA[&lt;p&gt;How does it feel to know you can design the world?&lt;/p&gt;]]></dragText>
+        </drag>
+
+        <drop>
+            <dropImagePath>assets/transparent_box.png</dropImagePath>
+        </drop>
+    </DragAndDrop>
+
+    <feedback>
+        <!--<correctFeedback><![CDATA[That's right!]]> </correctFeedback>
+        <incorrectFeedback><![CDATA[Almost; try again]]> </incorrectFeedback>
+        -->
+        <docCorrect>
+            <![CDATA[Great job! This is first because &lt;DOCTYPE html&gt; is an instruction to the web browser about what version of HTML the page is written in.]]>
+        </docCorrect>
+        <htmlCorrect>
+            <![CDATA[Great job! This is second because &lt;html&gt; tells your browser this is a web page.]]>
+        </htmlCorrect>
+
+        <headCorrect>
+            <![CDATA[Nice job! The &lt;head&gt; tag tells the browser what other information or files are needed to run the web page.]]>
+        </headCorrect>
+
+        <titleCorrect>
+            <![CDATA[Good work! The &lt;title&gt; tag tells the browser to put the information in the title bar of the browser.]]>
+        </titleCorrect>
+
+        <bodyCorrect>
+            <![CDATA[Well done! The &lt;body&gt; holds the information that will be seen on the web page.]]>
+        </bodyCorrect>
+
+        <fontCorrect>
+            <![CDATA[Excellent! The &lt;p&gt; tag and the text inside it will show up when you view this web page in a browser.]]>
+        </fontCorrect>
+
+        <closingCorrect>
+            <![CDATA[Way to go! Most tags must be closed out.]]>
+        </closingCorrect>
+
+        <finalFeedback>
+            <![CDATA[How does it feel to know you can design the world?]]>
+        </finalFeedback>
+
+        <incorrectFeedback>
+            <![CDATA[Almost; try again]]>
+        </incorrectFeedback>
+    </feedback>
+
+</GameData>

@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+    <item term="Central Processing Unit (CPU)">
+        <![CDATA[the main chip in a computer and another name for microprocessor]]>
+    </item>
+    <item term="Memory">
+        <![CDATA[stored information for the computer to perform its intended function ]]>
+    </item>
+    <item term="Input Device">
+        <![CDATA[a peripheral that provides information to the computer ]]>
+    </item>
+    <item term="Output Device">
+        <![CDATA[a peripheral that delivers information to the user ]]>
+    </item>
+    <item term="Computer Architecture">
+        <![CDATA[the selection and interconnection of hardware components to create computers that meet functional, performance, and cost goals]]>
+    </item>
+    <item term="Integrated Circuits">
+        <![CDATA[chips made up of transistors and other components that are connected to perform a given function ]]>
+    </item>
+    <item term="Transistors">
+        <![CDATA[carry the electrical current within a computer ]]>
+    </item>
+    <item term="Google Chrome">
+        <![CDATA[an internet browser ]]>
+    </item>
+    <item term="Operating Systems (OSs) ">
+        <![CDATA[the software that runs a computer, tablet, or smartphone ]]>
+    </item>
+    <item term="Graphical User Interface (GUI) ">
+        <![CDATA[allows users to see what they are doing by using icons, windows, and menus to interact within a computer ]]>
+    </item>
+    <item term="Read-Only Memory">
+        <![CDATA[ROM: provides information to devices but is not written to by the user ]]>
+    </item>
+    <item term="Random-Access Memory">
+        <![CDATA[RAM: allows the user to both read and write to this memory to improve the computer's functionality ]]>
+    </item>
+    <item term="Firmware Software">
+        <![CDATA[set of instructions that tells electronic devices how to operate ]]>
+    </item>
+    <item term="Peripherals">
+        <![CDATA[devices that connect to a computer to provide input or output functions ]]>
+    </item>
+    <item term="File Structure">
+        <![CDATA[an organized method of naming and storing files ]]>
+    </item>
+    <item term="Desktop">
+        <![CDATA[the main display screen on a computer ]]>
+    </item>
+    <item term="Alphanumeric">
+        <![CDATA[letters and numbers ]]>
+    </item>
+    <item term="File Formats">
+        <![CDATA[the way data is encoded and stored ]]>
+    </item>
+    <item term="File Extensions">
+        <![CDATA[the letters after a period in the filename that indicate the file format ]]>
+    </item>
+    <item term="Diagnosing">
+        <![CDATA[the act of finding the problem ]]>
+    </item>
+    <item term="Troubleshooting">
+        <![CDATA[the act of fixing the problem ]]>
+    </item>
+    <item term="Disk Cleanup">
+        <![CDATA[Windows software that analyzes and removes unneeded files ]]>
+    </item>
+    <item term="Drive Optimizer">
+        <![CDATA[Windows software that organizes files to free up space on the hard drive ]]>
+    </item>
+    <item term="Anti-virus Software">
+        <![CDATA[software that protects your computer from harmful files by detecting and removing them ]]>
+    </item>
+    <item term="Virus">
+        <![CDATA[a program that is intended to interfere with computer, tablet, or smartphone operations and can be spread from one device to another ]]>
+    </item>
+    <item term="Trojan Horse">
+        <![CDATA[program designed to breach the security of a computer, tablet, smartphone, or network ]]>
+    </item>
+    <item term="Worm">
+        <![CDATA[malware that replicates itself in order to spread to other computers, tablets, or smartphones]]>
+    </item>
+    <item term="Spyware	">
+        <![CDATA[software that allows others to steal your information ]]>
+    </item>
+    <item term="Adware">
+        <![CDATA[software that automatically displays or downloads advertising material]]>
+    </item>
+    <item term="Malware">
+        <![CDATA[software intended to damage or take partial control of a computer, tablet, or smartphone]]>
+    </item>
+    <item term="Firewall">
+        <![CDATA[software program or piece of hardware that helps screen out hackers, viruses, and worms that try to reach your computer over the internet ]]>
+    </item>
+    <item term="Reboot">
+        <![CDATA[turning your computer off and then back on]]>
+    </item>
+    <item term="Task Manager">
+        <![CDATA[a program that monitors the system, provides information about the processes and programs running on a computer, and informs the user about the general status of the computer ]]>
+    </item>
+    <item term="Surge Protector">
+        <![CDATA[an appliance designed to protect electrical devices from voltage spikes ]]>
+    </item>
+    <item term="Boot Process">
+        <![CDATA[the initial set of operations that a computer system performs after electrical power to the CPU is switched on or when the computer is reset ]]>
+    </item>
+        <item term="Client/Server Network">
+        <![CDATA[a network that has a central, powerful computer (called the server) that acts as a hub for other, less powerful computers or devices (called clients) to connect to ]]>
+    </item>
+    <item term="Peer-to-peer Network">
+        <![CDATA[a network where computers connect to other computers to share information, not through a main server ]]>
+    </item>
+    <item term="Server">
+        <![CDATA[a powerful computer that typically has clients connected to it]]>
+    </item>
+    <item term="Client">
+        <![CDATA[computers connected to a network ]]>
+    </item>
+    <item term="Ethernet Cable	">
+        <![CDATA[a cable used for high-speed connections ]]>
+    </item>
+    <item term="Wi-Fi">
+        <![CDATA[a wireless connection through radio waves that is compatible with wireless networking standards ]]>
+    </item>
+    <item term="Bluetooth">
+        <![CDATA[a wireless connection using short-wave radio frequencies]]>
+    </item>
+    <item term="Cloud Server">
+        <![CDATA[an internet server that allows for file sharing between those given access to the server ]]>
+    </item>
+    <item term="Instant Message	">
+        <![CDATA[message sent over the internet that appears on the recipient's screen as soon as it is sent ]]>
+    </item>
+    <item term="Teleconference">
+        <![CDATA[meeting by a group of people over the phone ]]>
+    </item>
+    <item term="Telepresence">
+        <![CDATA[meeting by a group of people through the use of video and audio ]]>
+    </item>
+    <item term="Spreadsheet">
+        <![CDATA[a table of data (text or numbers) arranged in columns and rows]]>
+    </item>
+    <item term="Worksheet">
+        <![CDATA[a single Excel spreadsheet that contains cells organized by rows and columns ]]>
+    </item>
+    <item term="Workbook">
+        <![CDATA[an Excel file that contains one or more worksheets]]>
+    </item>
+    <item term="Column">
+        <![CDATA[a vertical arrangement of items; Excel columns are identified by letters (Column A, B, C, etc.) ]]>
+    </item>
+    <item term="Row">
+        <![CDATA[a horizontal arrangement of items; Excel rows are identified by numbers (Row 1, 2, 3, etc.)]]>
+    </item>
+    <item term="Cell">
+        <![CDATA[the rectangular box at the intersection point of a column and row, where data is entered]]>
+    </item>
+    <item term="Versatile">
+        <![CDATA[able to adapt or be adapted to many different functions or activities]]>
+    </item>
+    <item term="Hyperlinked">
+        <![CDATA[words, phrases, or images that can be clicked on to open a new document ]]>
+    </item>
+    <item term="Ergonomics">
+        <![CDATA[the design and arrangement of things so they can be used easily and safely]]>
+    </item>
+    <item term="Cc field">
+        <![CDATA[Cc: stands for &ldquo;carbon copy,&rdquo; which is a copy of the original]]>
+    </item>
+    <item term="Bcc field">
+        <![CDATA[Bcc: stands for &ldquo;blind carbon copy,&rdquo; which means the original recipient cannot see additional recipients of the email ]]>
+    </item>
+    <item term="Spam">
+        <![CDATA[unsolicited and undesired email messages]]>
+    </item>
+    <item term="Page layouts">
+        <![CDATA[the arrangement of the parts of a page]]>
+    </item>
+    <item term="Portrait Orientation">
+        <![CDATA[the direction of a page where the longer side runs from top to bottom; tall and narrow]]>
+    </item>
+    <item term="Landscape Orientation">
+        <![CDATA[the direction of the page where the longer side runs from top to bottom; wide and short]]>
+    </item>
+    <item term="Footnote">
+        <![CDATA[an explanatory note or reference at the bottom of the page, referring to a specific part of the text on the page]]>
+    </item>
+    <item term="Endnote">
+        <![CDATA[an explanatory note or reference on the last page of a document, referring to a specific part of the text on the page]]>
+    </item>
+    <item term="Table">
+        <![CDATA[an arrangement of data in rows and columns]]>
+    </item>
+    <item term="Default settings">
+        <![CDATA[the automatic settings preset by the manufacturer]]>
+    </item>
+    <item term="AutoSum">
+        <![CDATA[the ability to total a column or row of numbers by selecting the cells you want to sum]]>
+    </item>
+    <item term="Margins">
+        <![CDATA[the borders, or edges, of the page; the computer defaults to one-inch borders on the left, right, top, and bottom of the page ]]>
+    </item>
+    <item term="Orientation">
+        <![CDATA[the position of the page]]>
+    </item>
+    <item term="Indent">
+        <![CDATA[move the beginning of a line or paragraph further from the margin]]>
+    </item>
+    <item term="Order of operations">
+        <![CDATA[parentheses, exponents, multiplication, division, addition, subtraction ]]>
+    </item>
+    <item term="Cell reference">
+        <![CDATA[cell or range of cells on a worksheet to be calculated in a formula ]]>
+    </item>
+    <item term="Absolute cell reference">
+        <![CDATA[cell reference in a formula that does not change if the formula is copied and pasted into a new cell or range of cells ]]>
+    </item>
+    <item term="Relative cell reference">
+        <![CDATA[cell reference in a formula that changes automatically if the formula is copied and pasted into a new cell or range of cells ]]>
+    </item>
+    <item term="PACE">
+        <![CDATA[Productivity, Accessibility, Collaboration, and Efficiency ]]>
+    </item>
+    <item term="Medium">
+        <![CDATA[a medium is a material (paint, colored pencils, charcoal, clay, etc.) used to create art ]]>
+    </item>
+    <item term="Query">
+        <![CDATA[ a question or a request for information about something ]]>
+    </item>
+    <item term="Presentation">
+        <![CDATA[a lecture, demonstration, performance, or speech]]>
+    </item>
+    <item term="Slide">
+        <![CDATA[a single page of a presentation ]]>
+    </item>
+    <item term="Template">
+        <![CDATA[a predesigned format ready to be filled in and customized ]]>
+    </item>
+    <item term="Hook">
+        <![CDATA[a one-to-two sentence introduction that grabs the audience's attention ]]>
+    </item>
+    <item term="SCAN">
+        <![CDATA[short and sweet, clear and concise, attention-grabbing, and narrative]]>
+    </item>
+    <item term="Graphical">
+        <![CDATA[relating to art, images, and graphic design ]]>
+      </item>
+      <item term="Multimedia">
+          <![CDATA[relating to audio and video ]]>
+        </item>
+        <item term="Infographic">
+            <![CDATA[a visual image used to represent information or data ]]>
+          </item>        
+<item term="Transition">
+    <![CDATA[the process of changing from one form or condition to another ]]>
+  </item>
+  
+<item term="Copyright">
+    <![CDATA[the exclusive legal right, given to an originator or creator, to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same]]>
+  </item>
+<item term="Ethical/Unethical">
+    <![CDATA[in/out of accordance with the rules or standards for right conduct or practice ]]>
+  </item>
+  <item term="Public domain">
+      <![CDATA[belonging or being available to the public as a whole, and therefore not subject to copyright ]]>
+    </item>
+    <item term="Piracy">
+        <![CDATA[using or reproducing another's work without permission ]]>
+      </item>
+      <item term="Contrast">
+          <![CDATA[the difference between light and dark areas  ]]>
+        </item>
+        <item term="Policy">
+            <![CDATA[a standard course of action adopted or proposed by a government, party, business, or individual ]]>
+          </item>
+          <item term="Customer service">
+              <![CDATA[the assistance and advice provided by a company to those people who buy or use its products or services ]]>
+            </item>
+            <item term="Human relations">
+                <![CDATA[interactions with or between people, particularly in a professional context ]]>
+              </item>
+              <item term="Personal skills">
+                  <![CDATA[how people manage and express themselves ]]>
+                </item>
+<item term="Interpersonal skills">
+    <![CDATA[ability to communicate or interact well with other people ]]>
+  </item><item term="Verbal communication">
+      <![CDATA[oral exchange of information; speaking]]>
+    </item><item term="Non-verbal communication">
+        <![CDATA[exchange of information without speaking; i.e. body language or writing ]]>
+      </item><item term="Listening skills">
+          <![CDATA[ability to pay attention to and interpret what other people are saying ]]>
+        </item><item term="Collaboration">
+            <![CDATA[the act of working with someone to produce or create something ]]>
+          </item><item term="Negotiation">
+              <![CDATA[working with others to find a mutually agreeable outcome ]]>
+            </item><item term="Problem solving">
+                <![CDATA[working with others to identify, define, and solve problems ]]>
+              </item><item term="Decision making">
+                  <![CDATA[exploring and analyzing options to make sound decisions  ]]>
+                </item>
+<item term="Global marketplace">
+    <![CDATA[all the customers or possible customers for a product or service in all areas of the world ]]>
+  </item><item term="Emerging technologies">
+      <![CDATA[new technologies that will substantially alter the business and social environment ]]>
+    </item><item term="Mobile devices">
+        <![CDATA[portable computing devices like cell phones, tablets, wearable watches and bands ]]>
+      </item>
+<item term="Smart appliances">
+    <![CDATA[household appliances that stay connected to the internet via home network or wi-fi connection and can be accessed and controlled remotely from any internet-accessible computer or mobile device. ]]>
+  </item>
+  <item term="Internet of Things">
+      <![CDATA[a network in which objects, animals, or people are provided with unique identifiers and the ability to communicate, sense, and interact over a network without requiring human-to-human or human-to-computer interaction ]]>
+    </item>
+<item term="Machine-to-machine">
+    <![CDATA[networked devices that exchange information and perform actions without the manual assistance of humans ]]>
+  </item>
+<item term="RFID">
+    <![CDATA[radio frequency identification; a technology that uses electronic tags placed on objects, people, or animals to relay identifying information to an electronic reader through radio waves ]]>
+  </item>
+  <item term="Constructive criticism">
+      <![CDATA[advice intended to help or improve something, often with an offer of possible solutions ]]>
+    </item>
+    <item term="Conflict resolution">
+        <![CDATA[the process of resolving a dispute or disagreement ]]>
+      </item>
+      <item term="Win-win">
+          <![CDATA[a situation in which each party benefits in some way ]]>
+        </item>
+            <item term="Paraphrase">
+            <![CDATA[restate another's words using different words ]]>
+          </item>
+          <item term="Project manager">
+              <![CDATA[person who has the overall responsibility for successfully planning, executing, and completing a project]]>
+            </item>
+<item term="Budget">
+    <![CDATA[estimated amount of money needed to complete a project ]]>
+  </item>
+  <item term="Internet">
+      <![CDATA[the global communication network that allows almost all computers worldwide to connect and exchange information ]]>
+    </item>
+    <item term="Coding">
+        <![CDATA[converting the symbolic arrangement of statements or instructions in a computer program into another symbolic arrangement, usually in an encoded or unreadable form ]]>
+      </item>
+      <item term="Formatting">
+          <![CDATA[arranging data for computer input or output, such as the number and size of fields in a record or the spacing and punctuation of information in a report ]]>
+        </item>
+        <item term="Web browser">
+            <![CDATA[a software application for retrieving, presenting, and navigating information resources on the World Wide Web ]]>
+          </item>
+          <item term="Cross-platform compatibility">
+              <![CDATA[a language, software application, or hardware device that works on more than one system platform ]]>
+            </item>
+            <item term="Internet Service Provider">
+                <![CDATA[a company that provides internet access ]]>
+              </item><item term="Hardware">
+                  <![CDATA[the physical items in a device that are needed to access the internet ]]>
+                                  </item><item term="World Wide Web">
+                      <![CDATA[a part of the internet made up of a virtual network of websites connected by hyperlinks ]]>
+                    </item> 
+                    <item term="URL">
+                        <![CDATA[Uniform Resource Locator: the global address of documents and other resources on the internet ]]>
+                      </item><item term="Internet Protocol">
+                          <![CDATA[the language computers use to communicate over the internet ]]>
+                        </item><item term="Domain Name Server">
+                            <![CDATA[program that translates domain names to IP addresses ]]>
+                          </item><item term="Internet File Name">
+                              <![CDATA[the extension that defines how a web browser displays the elements (text, images, links, and video) on a web page ]]>
+                            </item><item term="Domain Name">
+                                <![CDATA[a unique name that identifies a website ]]>
+                              </item>
+<item term="IP address">
+    <![CDATA[the unique 32-bit number assigned to every machine on the internet ]]>
+  </item>
+  <item term="HTML">
+      <![CDATA[HyperText Markup Language: the authoring language developed to create web pages; it defines the structure and layout of a web document ]]>
+    </item>
+    <item term="Network">
+        <![CDATA[a group of computer systems and other computing hardware devices linked together to enable communication and resource-sharing among a wide range of users ]]>
+      </item>
+      <item term="Intranet">
+          <![CDATA[ a private local network accessible only to an organization's staff ]]>
+        </item><item term="Extranet">
+            <![CDATA[an intranet that is partially accessible to authorized people outside the business or organization ]]>
+          </item>
+          <item term="Regulatory control">
+              <![CDATA[limitations imposed on the activities of an organization in compliance with the organization's regulations ]]>
+            </item>
+    <item term="WIMP interface">
+        <![CDATA[a style of interaction that uses windows, icons, menus, and pointer ]]>
+      </item>
+      <item term="Window">
+          <![CDATA[a separate viewing area on a computer monitor ]]>
+        </item>
+        <item term="Touch screen interfaces">
+            <![CDATA[a style of interaction that uses a finger or stylus ]]>
+          </item>
+          <item term="Configure">
+              <![CDATA[arrange or order a computer system, or an element of it, so as to fit it to a designated task ]]>
+            </item>
+        <item term="Search engines">
+            <![CDATA[a software system designed to search for information on the World Wide Web ]]>
+          </item>
+<item term="Application">
+    <![CDATA[a program in which all or some parts of the software are downloaded from the web each time it is run on the browser or mobile device ]]>
+  </item>
+  <item term="Social media">
+      <![CDATA[websites and applications used by large groups of people to share information and to develop social and professional contacts ]]>
+    </item>
+    <item term="Blog">
+        <![CDATA[a regularly updated website that is typically written by a person or small group in an informal, conversational tone and allows readers to comment ]]>
+      </item>
+      <item term="Collaborative device">
+          <![CDATA[computer application that allows users to work together, even when working remotely ]]>
+        </item> 
+        <item term="Listserv">
+            <![CDATA[an application that distributes messages to subscribers on an electronic mailing list ]]>
+          </item> 
+          <item term="Top-level Domains">
+              <![CDATA[website suffixes like .com, .edu, .gov, .mil, and .org ]]>
+            </item>
+            <item term="Commercial">
+                <![CDATA[intended to make a profit ]]>
+              </item>
+              <item term="Non-profit Organization">
+                  <![CDATA[an organization whose purpose is to benefit the general public, not to make money ]]>
+                </item>
+                <item term="Research">
+                    <![CDATA[the activity of getting information about a subject ]]>
+                  </item>
+ <item term="Scholarly">
+     <![CDATA[related to formal study or research ]]>
+   </item>
+   <item term="FAQ">
+       <![CDATA[frequently asked questions ]]>
+     </item>
+     <item term="Tutorial">
+         <![CDATA[resource that teaches someone how to do something by explaining each stage of a process ]]>
+       </item>
+       <item term="Vendor Bulletin Board">
+           <![CDATA[online discussion board hosted by a business, organization, or person that allows users to discuss the product or service ]]>
+         </item>
+         <item term="Credible">
+             <![CDATA[capable of being believed ]]>
+           </item>
+           <item term="Troubleshoot">
+               <![CDATA[to solve problems or correct errors ]]>
+             </item>
+             <item term="Lexile Text Measure">
+                 <![CDATA[the specific number range assigned to any text, indicating its reading difficulty in terms of its semantics (vocabulary) and syntax (sentence length and word order) ]]>
+               </item>             
+               <item term="Reading Comprehension">
+                   <![CDATA[the ability to read text and understand its meaning ]]>
+                 </item>
+<item term="Home page">
+    <![CDATA[a web page set as the default or start-up page on a browser ]]>
+  </item>
+  <item term="Bookmark">
+      <![CDATA[a shortcut to a previously viewed website stored in your browser ]]>
+    </item>
+    <item term="Preferences">
+        <![CDATA[user-specified settings ]]>
+      </item>
+      <item term="Email Server">
+          <![CDATA[Post Office Protocol 3 (POP3), Internet Message Access Protocol (IMAP), or Simple Mail Transfer Protocol (SMTP) ]]>
+        </item>
+        <item term="Cookies">
+            <![CDATA[small files that websites put on your PC to store information about you and your preferences ]]>
+          </item>
+          <item term="Pop-up">
+              <![CDATA[a window that appears suddenly on a computer screen often for advertising ]]>
+            </item>
+    
+             
+            <item term="Hacker">
+                <![CDATA[a person who uses computers to gain unauthorized access to a computer's data ]]>
+              </item>
+              <item term="Portable Document Format (PDF)">
+                  <![CDATA[a file format that provides an electronic image of a document and can be viewed, printed, and electronically transmitted ]]>
+                </item>
+  <item term="Rich Text Format (RTF)">
+      <![CDATA[universal file format that can include information such as text style, size, and color and can be read by all word processors ]]>
+    </item>
+    <item term="Electrical current">
+        <![CDATA[messages that communicate commands to the computer ]]>
+      </item>
+      <item term="Web page">
+          <![CDATA[single, usually hypertext document on the World Wide Web that can incorporate text, graphics, sounds, etc. ]]>
+        </item>
+        <item term="Campus Area Network (CAN)">
+            <![CDATA[a network consisting of multiple LANs but smaller than a WAN; typically seen in universities and office buildings ]]>
+          </item>
+          <item term="Local Area Network (LAN)">
+              <![CDATA[a computer network limited to a small area such as an office building, university, or a home ]]>
+            </item><item term="Metropolitan Area Network (MAN)">
+                <![CDATA[a network covering an area (a city) that is larger than a LAN but smaller than a WAN; typically owned and managed by a single entity ]]>
+              </item><item term="Storage Area Network (SAN)">
+                  <![CDATA[a network that provides access to data storage, so that storage devices can communicate with computers and other devices ]]>
+                </item><item term="System Area Network (SAN)">
+                    <![CDATA[a high performing network that connects computer clusters ]]>
+                  </item><item term="Wide Area Network (WAN)">
+                      <![CDATA[a network that covers a broad area (like across metropolitan, regional, or national boundaries) using private or public networks ]]>
+                    </item><item term="Wireless Local Area Network (WLAN)">
+                        <![CDATA[a LAN that is used on wireless technology ]]>
+                      </item>
+<item term="Network protocol">
+    <![CDATA[a system of rules that defines how internet resources get communicated on a network ]]>
+  </item><item term="Host">
+      <![CDATA[the computer or other network device where the resource is located]]>
+    </item><item term="Resource location">
+        <![CDATA[the path to a particular network resource on the host ]]>
+      </item>   
+   <item term="Tags">
+       <![CDATA[a code in a document that specifies how the web page should be formatted ]]>
+     </item>
+     <item term="Attributes">
+         <![CDATA[additional information used to modify an element; attributes appear inside the opening tag, and their content sits inside quotation marks ]]>
+       </item>
+       <item term="Elements">
+           <![CDATA[everything from the opening tag to the closing tag, including the content in between the tags ]]>
+         </item>
+         <item term="Opening tag &lt; &gt;">
+             <![CDATA[the first tag in a pair of tags is the start (or opening) tag ]]>
+           </item>
+           <item term="Closing tag &lt;/&gt;">
+               <![CDATA[the second pair in a pair of  tags is the end (or closing) tag. It must begin with a forward slash like this: &lt;/ &gt;. ]]>
+             </item>
+             <item term="DOCTYPE Declaration">
+                 <![CDATA[instruction to the web browser about what version of HTML the page is written in ]]>
+               </item>
+ <item term="Character styles">
+     <![CDATA[the different ways text can appear (i.e. modify text color, size, boldness, italics, and emphasis) ]]>
+   </item>      
+   <item term="Text editor">
+       <![CDATA[a computer program that allows you to create and edit files that contain plain text ]]>
+     </item>    
+     <item term="Color theory">
+         <![CDATA[a philosophy regarding the mixing of colors and specific combinations of colors ]]>
+       </item>
+       <item term="Color wheel">
+           <![CDATA[a circle with different colored sections used to show the relationship between colors ]]>
+         </item>
+         <item term="Primary colors">
+             <![CDATA[red, yellow, and blue, which are used to create all other colors on the color wheel ]]>
+           </item>
+           <item term="Secondary colors">
+               <![CDATA[orange, green, and purple; these colors are created by mixing equal parts of any two primary colors ]]>
+             </item>
+             <item term="Tertiary colors">
+                 <![CDATA[red-purple, red-orange, blue-green, yellow-green, blue-purple, and yellow-orange; these are created by mixing equal parts of a secondary and primary color together ]]>
+               </item>
+               <item term="Vibrancy">
+                   <![CDATA[a principle that deals with the emotion of the design based on the colors involved and their intensity ]]>
+                 </item>
+                 <item term="Color scheme">
+                     <![CDATA[an arrangement or combination of colors ]]>
+                   </item>
+                   <item term="Complementation">
+                       <![CDATA[a design principle that focuses on how we see colors in relation to other colors that are present in the same work ]]>
+                     </item><item term="Complementary">
+                         <![CDATA[colors that are opposite each other on the color wheel ]]>
+                       </item><item term="Triadic">
+                           <![CDATA[three colors that are evenly spaced around the color wheel, making a triangle shape ]]>
+                         </item><item term="Square">
+                             <![CDATA[four colors that are spaced evenly around the color circle, making a square shape ]]>
+                           </item><item term="Analogous">
+                               <![CDATA[colors that are next to each other on the color wheel ]]>
+                             </item>
+ <item term="Accent">
+     <![CDATA[colors that are used sparingly for emphasis ]]>
+   </item>
+ <item term="Font">
+     <![CDATA[the size and style of the text characters ]]>
+   </item>
+   <item term="Design">
+       <![CDATA[the arrangement or pattern of elements in a work of art, web page, room, outfit, etc. ]]>
+     </item>
+     <item term="Wireframe">
+         <![CDATA[a sketch detailing where text and images will be placed on a website ]]>
+       </item>
+       <item term="Layout">
+           <![CDATA[the arrangement of content ]]>
+         </item>
+         <item term="Storyboard">
+             <![CDATA[a plan that depicts the sequence of the key content ]]>
+           </item>
+           <item term="Content">
+               <![CDATA[the subjects or topics expressed in writing, images, video, hyperlink, etc. ]]>
+             </item>
+             <item term="Image">
+                 <![CDATA[a picture that is produced by a camera, artist, mirror, etc. ]]>
+               </item>
+               <item term="Graphics">
+                   <![CDATA[drawings, diagrams, graphs, mathematical curves, symbols, etc. ]]>
+                 </item>
+                 <item term="Digitize">
+                     <![CDATA[convert (pictures or sound) into a digital form that can be processed by a computer ]]>
+                   </item>
+                   <item term="Image hosting">
+                       <![CDATA[service that allows individuals to upload and share images online ]]>
+                     </item>
+                     <item term="Stock photo">
+                         <![CDATA[professional photographs of common places, landmarks, nature, events or people that are bought and sold on a royalty-free basis and can be used and reused for commercial design purposes ]]>
+                       </item>
+                       <item term="Clip art">
+                           <![CDATA[pre-made, copyright-free illustrations used to represent many different topics ]]>
+                         </item>
+                         <item term="Scanner">
+                             <![CDATA[a device that is capable of copying a graphic, document, or other object ]]>
+                           </item>
+                           <item term="Universal Serial Bus (USB)">
+                               <![CDATA[an external cable and connector used for connecting peripheral devices to a computer ]]>
+                             </item><item term="Royalty-free">
+                                 <![CDATA[refers to the right to use copyrighted material or intellectual property without the need to pay royalties or license fees ]]>
+                               </item>
+<item term="WYSIWYG">
+    <![CDATA[an editor or program that allows a developer to see what the end result will look like while the interface or document is being created ]]>
+  </item>
+  <item term="Cascading Style Sheets (CSS)">
+      <![CDATA[a stylesheet language used to describe how elements of HTML should be displayed onscreen ]]>
+    </item>
+    <item term="Java">
+        <![CDATA[a stylesheet language used to describe how elements of HTML should be displayed onscreen ]]>
+      </item>
+      <item term="JavaScript">
+          <![CDATA[popular web programming language; it is widely used to add functionality and interactivity to web pages; Note: It differs from Java ]]>
+        </item>
+        <item term="Hypertext Preprocessor (PHP)">
+            <![CDATA[an open source scripting language executed on the server that is free to download ]]>
+          </item>
+          <item term="Structured Query Language (SQL)">
+              <![CDATA[code written as standalone lines known as queries, often used to create, read, update, or delete data in a database ]]>
+            </item>
+            <item term="Hard skills">
+                <![CDATA[specific, teachable abilities (i.e. reading, solving equations, and using software, etc.) that can be defined and measured ]]>
+              </item><item term="Soft skills">
+                  <![CDATA[character traits and interpersonal skills that characterize a person's relationships with other people ]]>
+                </item>
+                <item term="Personality Traits">
+                    <![CDATA[the reflection of people's typical patterns of thoughts, feelings, and behaviors ]]>
+                  </item>
+                  <item term="Labor Market">
+                      <![CDATA[the supply of available workers in relation to available work ]]>
+                    </item>
+                    <item term="Trend">
+                        <![CDATA[a general direction in which something is developing or changing ]]>
+                      </item>
+           <item term="Prospects">
+                      <![CDATA[the possibility or likelihood of some future event occurring ]]>
+                    </item>
+                    <item term="Career">
+                        <![CDATA[an occupation performed for a significant period of a person's life and with opportunities for progress ]]>
+                      </item> 
+            <item term="Information technology (IT)">
+                <![CDATA[the study or use of systems (especially computers and telecommunications) for storing, retrieving, and sending information ]]>
+              </item>
+              <item term="Economy">
+                  <![CDATA[the wealth and resources of a country or region, especially in terms of the production and consumption of goods and services ]]>
+                </item>
+                <item term="Outlook">
+                    <![CDATA[the future of someone or something ]]>
+                  </item>
+                  <item term="Application">
+                      <![CDATA[ a form used in making a request ]]>
+                    </item>                    
+    <item term="Résumé">
+        <![CDATA[a short document describing your education, work history, skills, etc. that you give an employer when applying for a job ]]>
+      </item>
+      <item term="Cover letter">
+          <![CDATA[a letter that is sent with something to explain the reason for it or to give more information about it ]]>
+        </item>
+        <item term="Keyword">
+            <![CDATA[a word or concept of great significance ]]>
+          </item>
+          <item term="Interview">
+              <![CDATA[a formal meeting, usually to evaluate qualifications (as of a prospective student or employee) ]]>
+            </item>
+            <item term="Executive">
+                <![CDATA[a person with senior managerial responsibility in a business organization ]]>
+              </item>
+              <item term="Page title">
+                  <![CDATA[ in web design, the page title is displayed in the title bar at the top of the browser, and it gives both humans and search engines a quick indication of the contents of the page by using keywords ]]>
+                </item>
+                <item term="Career resources">
+                    <![CDATA[items used to help explore career options and find career information ]]>
+                  </item>
+                  <item term="Professional development">
+                      <![CDATA[the advancement of skills or expertise to succeed in a particular profession through continued education and facilitated learning opportunities ]]>
+                    </item>
+                    <item term="Mentor">
+                        <![CDATA[an experienced and trusted adviser ]]>
+                      </item><item term="Networking">
+                          <![CDATA[interacting with other people to exchange information and develop contacts, especially to further one's career ]]>
+                        </item><item term="Association">
+                            <![CDATA[a group of people organized for a joint purpose ]]>
+                          </item><item term="Mentee">
+                              <![CDATA[a person who is advised, trained, or counseled by a mentor ]]>
+                            </item>
+  <item term="Summarize">
+      <![CDATA[to briefly restate the main points ]]>
+    </item>
+    <item term="Direct quote">
+        <![CDATA[using an author's language word-for-word with quotation marks  ]]>
+      </item>
+     
+     
+                         </glossary>

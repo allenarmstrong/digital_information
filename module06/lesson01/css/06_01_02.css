@@ -1,0 +1,16 @@
+.panel {
+    margin-left: 160px;
+    margin-top: 20px;
+}
+
+.panel-body span {
+    padding-left: 10px;
+    display: block;
+}
+
+.panel img {
+    width: 160px;
+    position: absolute;
+    margin-left: -157px;
+    margin-top: -18px;
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+    <title>Hard or Soft Skills?</title>
+    <directions>Drag the skill to its correct category.  Select Begin
+        to get started.
+    </directions>
+    <directionsTextVer>Identify each skills as either a hard or soft skill.
+
+        
+    </directionsTextVer>
+    <defaultFinished>You rock that thinking cap! Good job identifying hard and soft skills, both of which are important in the workforce.
+    </defaultFinished>
+    <draggables>multiple</draggables>
+    <droppables>append</droppables>
+    <customTextVer><!--textVersion.htm--></customTextVer>
+
+    <prebin></prebin>
+    <bin>
+        <title>Hard Skills</title>
+        <text><![CDATA[ &nbsp; ]]></text>
+        <binID>A</binID>
+        <item>
+            <itemText>Analyze </itemText>
+</item>
+            <item>
+            <itemText>Calculate </itemText>
+        </item>
+<item>
+            <itemText>Design </itemText>
+        </item>
+<item>
+            <itemText>Lead </itemText>
+        </item>
+<item>
+            <itemText>Organize </itemText>
+        </item>
+<item>
+            <itemText>Problem Solve </itemText>
+        </item>
+<item>
+            <itemText>Read </itemText>
+        </item>
+<item>
+            <itemText>Repair</itemText>
+        </item> 
+<item>
+            <itemText>Teach </itemText>
+        </item>
+<item>
+            <itemText>Write</itemText>
+        </item>
+    </bin>
+  
+    <bin>
+        <title>Soft Skills</title>
+        <text><![CDATA[ &nbsp; ]]></text>
+        <binID>B</binID>
+        <item>
+            <itemText>Adaptable </itemText>
+        </item>
+<item>
+            <itemText>Cooperative </itemText>
+        </item>
+<item>
+            <itemText>Creative </itemText>
+        </item>
+<item>
+            <itemText>Dependable </itemText>
+        </item>
+<item>
+            <itemText>Friendly </itemText>
+        </item>
+<item>
+            <itemText>Innovative </itemText>
+        </item>
+<item>
+            <itemText>Patient </itemText>
+        </item>
+<item>
+            <itemText>Punctual </itemText>
+        </item>
+<item>
+            <itemText>Sensitive </itemText>
+        </item>
+<item>
+            <itemText>Trustworthy</itemText>
+        </item>
+            
+        
+    </bin>
+   
+           <postbin></postbin>
+</settings>

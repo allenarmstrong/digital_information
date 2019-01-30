@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+    <title>Personal Skills</title>
+    <directionsTextVer>Select a card to learn more about which attire is appropriate for the job.</directionsTextVer>
+    <width>340</width>
+    <height>290</height>
+    <bgcolor>#f5d3ac</bgcolor>
+    <speed>350</speed>
+    <spinDirection>lr</spinDirection>
+
+
+    <flipcard>
+        <cardfront>
+            <title>Relaxed and Comfortable</title>
+            <text></text>
+            <img>
+                <alt>a group of people in a very relaxed style of clothing</alt>
+                <description></description>
+                <src>interactives/03_02_04/intmedia/95321625.jpg</src>
+            </img>
+        </cardfront>
+        <cardback>
+            <title>Relaxed and Comfortable</title>
+            <text>It's best to adopt the dress of the company where you work. This relaxed and comfortable dress style
+                would be very much at home in some corporate cultures. Depending on your job role, you may see many
+                different styles of dress in a busy company. Internal staff who never face the customer may have a more
+                relaxed style whereas a sales team would have a more formal style.
+            </text>
+            <img>
+                <alt></alt>
+                <description></description>
+                <src></src>
+            </img>
+        </cardback>
+    </flipcard>
+
+    <flipcard>
+        <cardfront>
+            <title>Formal Business Attire</title>
+            <text></text>
+            <img>
+                <alt>a group of people in business attire</alt>
+                <description></description>
+                <src>interactives/03_02_04/intmedia/92741040.jpg</src>
+            </img>
+        </cardfront>
+        <cardback>
+            <title>Formal Business Attire</title>
+            <text>Employers in the banking, real estate, education, medical, and military fields generally have a
+                strict dress code that all are expected to follow. You will learn quickly enough what to do. In many
+                companies, the dress code varies by the job you hold. A warehouse worker isn't expected to show up in a
+                suit and tie.
+            </text>
+            <img>
+                <alt></alt>
+                <description></description>
+                <src></src>
+            </img>
+        </cardback>
+    </flipcard>
+
+
+</settings>

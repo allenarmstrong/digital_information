@@ -1,0 +1,88 @@
+.tabs a.tab, .tabs a.tab:hover {
+    width: 171px;
+    height: 119px;
+    border-radius: 0px;
+    background-color: transparent;
+    color: transparent;
+    background-repeat: no-repeat;
+
+}
+
+.tabs a.tab.doc_file {
+    background-image: url("../images/doc_icon.png");
+    background-position: top;
+}
+
+.tabs a.tab.doc_file.active, .tabs a.tab.doc_file:hover {
+    background-image: url("../images/doc_icon_active.png");
+    background-position: top;
+}
+
+.tabs a.tab.image_file {
+    background-image: url("../images/image_file.png");
+    background-position: top;
+}
+
+.tabs a.tab.image_file.active, .tabs a.tab.image_file:hover {
+    background-image: url("../images/image_file_active.png");
+    background-position: top;
+}
+
+.tabs a.tab.audio_file {
+    background-image: url("../images/audio_file.png");
+    background-position: top;
+}
+
+.tabs a.tab.audio_file.active, .tabs a.tab.audio_file:hover {
+    background-image: url("../images/audio_file_active.png");
+    background-position: top;
+}
+
+.tabs a.tab.video_file {
+    background-image: url("../images/video_file.png");
+    background-position: top;
+}
+
+.tabs a.tab.video_file.active, .tabs a.tab.video_file:hover {
+    background-image: url("../images/video_file_active.png");
+    background-position: top;
+}
+
+.tabs .panel {
+    border-radius: 0px;
+    background-color: #fff !important;
+    padding: 10px;
+    max-width: 653px;
+}
+
+.imageblock {
+    border: 2px solid #f94d00;
+    border-radius: 3px;
+    max-width: 633px;
+    height: 426px;
+    padding: 55px 80px;
+}
+
+.imageblock.doc_image {
+    background-image: url("../images/doc_bg.png");
+}
+
+.imageblock.image_image {
+    background-image: url("../images/images_bg.png");
+}
+
+.imageblock.audio_image {
+    background-image: url("../images/audio_bg.png");
+}
+
+.imageblock.video_image {
+    background-image: url("../images/video_bg.png");
+}
+
+.imageblock hr {
+    border-top-color: #212121;
+}
+
+.imageblock p {
+    margin-bottom: 16px;
+}

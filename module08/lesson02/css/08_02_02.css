@@ -1,0 +1,81 @@
+
+#computer_container {
+    height: 1403px;
+    width: 612px;
+    background-image: url(../images/Application.jpg);
+    background-repeat: no-repeat;
+    background-position: center 0px;
+    margin: 0px auto;
+}
+
+.hotspot {
+    position: relative;
+    width: 30px;
+    height: 29px;
+    background-image: url("../images/links.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: pointer;
+}
+
+#computer_container .tip-top {
+    position: absolute;
+    display: block;
+    height: 30px;
+    width: 29px;
+    cursor: pointer;
+}
+
+#computer_container .tooltip-inner {
+    width: 220px;
+}
+
+#name {
+    top: 180px;
+    left: 0;
+}
+
+#contact {
+    top: 200px;
+    left: 0;
+}
+
+#social {
+    top: 310px;
+    left: 320px;
+}
+
+#position {
+    top: 320px;
+    left: 0;
+}
+
+#avail {
+    top: 250px;
+    left: 0
+}
+
+#education {
+    top: 450px;
+    left: 0;
+}
+
+#criminal {
+    top: 340px;
+    left: 0;
+}
+
+#references {
+    top: 500px;
+    left: 0;
+}
+
+#military {
+    top: 855px;
+    left: 0;
+}
+
+#experience {
+    top: 600px;
+    left: 0
+}

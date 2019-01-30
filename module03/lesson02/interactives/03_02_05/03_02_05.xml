@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+  <settings>
+    <instructions>Read the following scenarios and select the best answer about personal and interpersonal skills.</instructions>
+    <css>
+      <width>700</width>
+      <height>400</height>
+    </css>
+  </settings>
+  <question>
+    <type>mc</type>
+    <title>Personal and Interpersonal Skills</title>
+    <quiz>Jeremy's boss has reprimanded him for being late to work. What area does Jeremy need to improve?</quiz>
+    <answer>Punctuality</answer>
+    <correct>Yes! You understand that Jeremy needs to work on being punctual (on time) to work. Can you think of ways he can practice this skill in everyday life?</correct>
+    <option>Attire </option>
+    <option>Collaboration </option>
+    <feedback>Maybe Jeremy had trouble choosing proper attire, but the question doesn't state this. Think a little more about what Jeremy can work on to prevent being late in the future.</feedback>
+    <feedback>Take another look at the question. Does it mention that Jeremy was late due to working with others?
+    </feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Personal and Interpersonal Skills</title>
+    <quiz>Dashawn feels nervous when talking to people he doesn't know, so he looks down and is barely audible. What skill does Dashawn need to improve?</quiz>
+    <answer>Verbal communication</answer>
+    <correct>Way to flex your brain muscles. They’re getting big! Dashawn should practice his speaking skills by reading/speaking out loud to a family member or friend. If he focuses on keeping his head up and speaking loudly enough so his audience can hear, he will get more and more comfortable with others.</correct>
+    <option>Decision-making</option>
+    <option>Problem-solving</option>
+    <feedback>Decision-making is an important skill, but the question doesn't mention whether Dashawn struggles in this area. Try to determine what Dashawn must practice to get more comfortable talking to people he does not know.</feedback>
+    <feedback>Check out this question again. Does it give any facts about Dashawn having difficulty solving a problem or dilemma? Try to identify what he needs to practice in order to feel more comfortable talking to people he doesn't know.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Personal and Interpersonal Skills</title>
+    <quiz>Tanya has an interview for a summer internship at the courthouse. Which outfit would be most appropriate?</quiz>
+    <answer>A button-down shirt, pants, and dress shoes </answer>
+    <correct>Okay, so Tanya may not win a fashion contest, but she will look very professional and appropriate in a courthouse (or corporate setting). Great job picking the perfect work outfit.</correct>
+    <option>A strapless dress with crystals and beading</option>
+    <feedback>This outfit sounds perfect for prom or another formal event, but it is not appropriate for the workplace. Tanya needs an outfit to showcase her solid personal skills when it comes to attire.</feedback>
+    <option>Jeans and a t-shirt</option>
+    <feedback>While it's important to feel comfortable, courthouses and other professional institutions require more formal attire. Check out the other options.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Personal and Interpersonal Skills</title>
+    <quiz>There has been tension among the girls’ softball team. Some of the teammates can't get along and work together. What skill should the coach work on with the girls?</quiz>
+    <answer>Conflict resolution</answer>
+    <correct>It sounds like there are some major conflicts happening. The coach should take the opportunity to teach the girls strategies to solve conflicts effectively. This is a winning idea!</correct>
+    <option>Catching </option>
+    <feedback>This is definitely a skill a softball coach should have the team practice, but it won't solve the issue of
+      teammates not getting along.
+    </feedback>
+    <option>Punctuality </option>
+    <feedback>Timing is important, but the question doesn't mention an issue of being on time.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+
+</interactive>

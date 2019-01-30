@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+  <settings>
+    <instructions>Read the following scenarios and select the best resource to troubleshoot the issue.</instructions>
+    <css>
+      <width>700</width>
+      <height>400</height>
+    </css>
+  </settings>
+  <question>
+    <type>mc</type>
+    <title>Troubleshooting</title><quiz>Tatum bought a new tablet and wants to know how to download free apps. Which is the quickest way to access
+      the information he needs?</quiz>
+
+    <answer>Go to the FAQ page of the tablet</answer>
+    <correct>Yes! Sometimes the fastest route is a straight line. Try the manufacturer's website to find the information you need.</correct>
+    <option>Call customer support</option>
+    <option>Research the history of apps</option>
+    <feedback>If Tatum doesn't mind wait time, he can certainly call customer service. However, he could access help in a faster manner (possibly from his tablet). Think of an alternative.</feedback>
+    <feedback>Research and history don't really fit in a "quick" category. While Tatum may find an answer (eventually), there is a faster resource available for this type of question.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Troubleshooting</title>
+    <quiz>Simone recently downloaded Photoshop in order to edit her pictures. She has never used the software before and wants to learn how to get started. What option is best for Simone's purpose?</quiz>
+    <answer>Watch a tutorial </answer>
+    <correct>Good suggestion! Since tutorials typically offer step-by-step instructions, they are great learning tools. Simone should check the software homepage for tutorials before heading to YouTube.</correct>
+    <option>Research the history of Photoshop</option>
+    <option>Read the comments on a vendor bulletin board</option>
+    <feedback>Knowing the "who, what, where, when, how, and why" is interesting, but it may not assist Simone in actually using the software. Reconsider what tool will best help her learn the step-by-step instructions to photo editing.</feedback>
+    <feedback>Once Simone gets started with her photo editing, other users comments may be helpful. But for now, she needs a resource that will help her learn the basics. What type of tool gives step-by-step instructions?</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Troubleshooting</title>
+    <quiz>Hannah is setting up her printer but doesn't know where to attach the cables. She would like directions and an image of where the cables go. What type of resource is best for this purpose?</quiz>
+    <answer>Read the user's manual </answer>
+    <correct>Awesome thinking! User's manuals have written directions, as well as images to illustrate complex concepts (like attaching cables). Plus, they are divided into sections, so the table of contents will show Hannah exactly where the information is located.</correct>
+    <option>Call customer support</option>
+    <feedback>Customer service may be able to verbally walk Hannah through the set-up process. However, they can't visually show her where to connect the cables like she wants. Think of another resource that may have pictures and instructions.</feedback>
+    <option>Print a report on the history of printers</option>
+    <feedback>This is a trick question. Hannah's printer cables still aren't connected. Plus, knowing the history won't really help with her current situation. Where should she look to get the instructions and images she needs to set up her printer?</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Troubleshooting</title>
+    <quiz>Mariana wants to buy a new smartphone. She has it narrowed down to two choices. Before she makes the big purchase, she wants to do some informal research to find out how owners feel about their phone. What is the best way to acquire this information? </quiz>
+    <answer>Read the comments on a vendor bulletin board</answer>
+    <correct>Great idea! If Mariana reads the comments on the phones’ websites, she will see what owners like and dislike. This is a great resource to help Mariana select the best phone for her needs.</correct>
+    <option>Watch a tutorial</option>
+    <feedback>Tutorials are great when you need to learn how to do something. However, Mariana wants advice from fellow phone owners to help her make the best purchase. What type of resource can provide this information?</feedback>
+    <option>Research the history of smartphones</option>
+    <feedback>By the time Mariana finishes her research, there may be a new phone on the market! Think of a resource that can provide comments from phone owners.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+  </question>
+</interactive>

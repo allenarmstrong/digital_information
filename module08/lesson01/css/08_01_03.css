@@ -1,0 +1,25 @@
+.carousel-control {
+    top: 5%;
+}
+
+.row {
+    padding: 10px 50px 50px
+}
+
+.col-sm-2 a, .col-sm-3 a, .col-sm-5 a {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.col-sm-2, .col-sm-3, .col-sm-5 {
+    text-align: center;
+}
+
+.slide4 {
+    height: 300px;
+    padding-top: 100px;
+}
+
+.popover {
+    width: 400px;
+}

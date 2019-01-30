@@ -1,0 +1,75 @@
+#computer_container {
+    height: 420px;
+    width: 580px;
+    background-image: url(../images/ergonomics.png);
+    background-repeat: no-repeat;
+    background-position: center 50px;
+    margin: 0px auto;
+}
+
+.hotspot {
+    position: relative;
+    width: 30px;
+    height: 29px;
+    background-image: url("../images/links.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: pointer;
+}
+
+#computer_container .tip-top {
+    position: absolute;
+    display: block;
+    height: 30px;
+    width: 29px;
+    cursor: pointer;
+}
+
+#computer_container .tooltip-inner {
+    width: 120px;
+}
+
+#position {
+    top: 30px;
+    left: 200px;
+}
+
+#place {
+    top: 0px;
+    left: 300px;
+}
+
+#center {
+    top: 80px;
+    left: 250px;
+}
+
+#adjust {
+    top: 40px;
+    left: 390px;
+}
+
+#wrists {
+    top: 15px;
+    left: 330px;
+}
+
+#mouse {
+    top: -30px;
+    left: 290px;
+}
+
+#chair {
+    top: 0px;
+    left: 410px;
+}
+
+#situp {
+    top: -140px;
+    left: 410px;
+}
+
+#feet {
+    top: 60px;
+    left: 290px;
+}

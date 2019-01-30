@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<interactive>
+	<settings>
+	    <title></title>
+        <instructions></instructions>
+		<css>
+			<background></background>
+			<width></width>
+			<height></height>
+		</css>
+		<auto_answer>true</auto_answer>
+		<results>true</results>
+	</settings>
+	
+	<question>
+		<instructions></instructions>
+		<type>wb</type>
+		<title></title>
+		<quiz></quiz>
+		<option></option>
+		<option></option>
+		<option></option>
+		<correct></correct>
+		<incorrect></incorrect>
+	</question>
+	
+	<question>
+		<instructions></instructions>
+		<type>tf</type>
+		<quiz></quiz>
+		<correct></correct>
+		<incorrect></incorrect>
+	</question>	
+	
+	<question>
+		<type>selectable</type>
+		<instructions></instructions>
+		<quiz></quiz>
+		<answer></answer>
+		<answer></answer>
+		<option></option>
+		<option></option>
+		<option></option>
+		<option></option>
+	</question>
+	
+	<question>
+		<type>fitb</type>
+		<instructions></instructions>
+		<title></title>
+		<quiz></quiz>
+		<options>
+			<answer></answer>
+			<option></option>
+			<option></option>
+		</options>
+		<options>
+			<answer></answer>
+			<option></option>
+			<option></option>
+		</options>
+		<correct></correct>
+		<incorrect></incorrect>
+		<failed></failed>
+	</question>
+	
+	<question>
+		<type>sortable</type>
+		<instructions></instructions>
+		<quiz></quiz>
+		<option></option>
+		<option></option>
+		<option></option>
+		<option></option>
+		<option></option>
+		<option></option>
+	</question>
+	
+	<question>
+		<type>mc</type>
+		<instructions></instructions>
+		<quiz></quiz>
+		<answer></answer>
+		<option></option>
+		<option></option>
+		<option></option>		
+	</question>
+	
+</interactive>

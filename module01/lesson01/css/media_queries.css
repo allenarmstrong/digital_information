@@ -1,0 +1,208 @@
+/* 
+
+RESPONSIVE.CSS 
+---------------------------------------------------------------------------
+Use this document when you need to add responsiveness to any page or course. 
+Define the style inside each querie to make it change for the various sizes.
+
+*/
+
+/* iPad Landscape, FLVS standard Width */
+@media screen and (max-width: 1024px){
+#container { width:844px; }
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+    width: 470px;
+	
+    margin: 50px 0px 0px 20px;
+}
+}
+
+
+/* Custom for Toolwire environment */
+@media screen and (max-width: 1010px){
+body { padding:0 5px !important; }
+}
+
+
+
+/* Course inside Educator 1024 */
+@media screen and (max-width: 844px){
+#container { width:820px; }
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+    margin-left: 10px;
+	
+    width: 470px;
+}
+}
+
+
+/* Course inside Educator 1024 (IE) */
+@media screen and (max-width: 824px){
+#container { width:780px; }
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+    width: 450px;
+}
+.lessonContainer {
+	padding: 5px;	
+}
+}
+
+
+/* Kindle Fire Landscape */
+@media screen and (max-width: 800px){
+#container { width:720px; }
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+    width: 410px;
+}
+.lessonContainerHeader .empty {
+width: 60%;
+}
+.lessonContainer .time {
+width: 24%;
+}
+.lessonContainer .points {
+width: 12%;
+}
+.lessonList .lesson_title{
+    width: 51%;
+}
+}
+
+
+/* iPad Portrait */
+@media screen and (max-width: 768px){
+#container { width:680px; }
+.interactive,.ui_interactive,.activeInteractive,.slideshow,.carousel,.roundabout,#slides,#jGR_container{display:none;}
+.phone_textversion{display:block;}
+.landingContent { padding-top:10px !important; }
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+	
+}
+.lessonContainerHeader .empty {
+width: 62%;
+}
+.lessonContainer .time {
+width: 24%;
+}
+.lessonContainer .points {
+width: 12%;
+}
+}
+
+
+/* iPad Portrait inside Educator*/
+ @media screen and (max-width: 700px) {
+body { padding:0 5px !important; }
+#container { width:100%; }
+.landingImage { display:none; }
+.landingContent { width:90% !important; }
+#menu_right { display:none; }
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+	
+}
+.lessonContainerHeader .empty {
+width: 62%;
+}
+.lessonContainer .time {
+width: 24%;
+}
+.lessonContainer .points {
+width: 12%;
+}
+}
+ 
+ 
+ /* iPhone 5 Portrait */
+@media screen and (max-width: 640px){
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+	
+}
+.lessonContainerHeader .empty {
+width: 62%;
+}
+.lessonContainer .time {
+width: 24%;
+}
+.lessonContainer .points {
+width: 12%;
+}
+}
+
+ 
+/* Kindle Fire Portrait */
+@media screen and (max-width: 600px){
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+	
+}
+.lessonContainerHeader .empty {
+width: 62%;
+}
+.lessonContainer .time {
+width: 24%;
+}
+.lessonContainer .points {
+width: 12%;
+}
+}
+
+
+/* iPad Portrait inside Educator*/
+@media screen and (max-width: 568px){
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+	
+}
+.lessonContainerHeader .empty {
+width: 62%;
+}
+.lessonContainer .time {
+width: 24%;
+}
+.lessonContainer .points {
+width: 12%;
+}
+}
+
+
+/* iPhone/iPod Touch Landscape */
+@media screen and (max-width : 480px) {
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+	
+}
+.lessonContainerHeader .empty {
+width: 62%;
+}
+.lessonContainer .time {
+width: 24%;
+}
+.lessonContainer .points {
+width: 12%;
+}
+}
+
+
+/* iPhone/iPod Touch Portrait */
+@media screen and (max-width : 320px) {
+.showcase,.lightbox,.frame,.left,.right { max-width:450px !important; min-width:50px !important; height:auto !important; width:auto !important; }
+.landingContent {
+	
+}
+.lessonContainerHeader .empty {
+width: 62%;
+}
+.lessonContainer .time {
+width: 24%;
+}
+.lessonContainer .points {
+width: 12%;
+}
+}

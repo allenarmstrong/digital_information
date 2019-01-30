@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel='stylesheet' href='css/textAngular.css'>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+    <script src='js/angular.min.js'></script>
+    <script src='js/textAngular-rangy.min.js'></script>
+
+    <script src='js/textAngular-sanitize.min.js'></script>
+
+    <script src='js/textAngularSetup.js'></script>
+    <script src='js/textAngular.js'></script>
+
+</head>
+<body>
+<div id="ng-app" ng-app="textAngularDemo" ng-controller="demoController" class="ng-scope">
+
+    <div class="container lighter">
+        <div text-angular ng-model="htmlContent" name="demo-editor" ta-text-editor-class="focussed container"
+             ta-html-editor-class="focussed"></div>
+    </div>
+    <br>
+    <!--<div class="container text-center lighter border-around">-->
+    <!--<div class="lighter roboto">-->
+    <!--<p ng-bind="htmlContent" class="text-left text-med text-gray"></p>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--<br>-->
+
+</div>
+<script type="text/javascript">
+    angular.module("textAngularDemo", ['textAngular'])
+            .controller("demoController", function demoController($scope) {
+                $scope.htmlContent = '';
+            });
+</script>
+
+</body>
+</html>

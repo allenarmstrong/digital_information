@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+  <settings>
+    <instructions>Read the following scenarios and show how you would use the internet to perform email
+      activities.</instructions>
+    <css>
+      <width>700</width>
+      <height>400</height>
+    </css>
+
+  </settings>
+  <question>
+    <type>mc</type>
+    <title>Expert or Apprentice?</title>
+    <quiz>Your boss asks you to send her the documents she needs for a critical meeting with important clients
+      downtown. She said she needs them like yesterday. What do you do?</quiz>
+    <answer>Compose an email and use the Insert button to add the files as attachments.</answer>
+    <option>Hire a bike messenger to hand-deliver the document.</option>
+    <option>Send the documents through the U.S. Postal Service.</option>
+    <option>Walk them. After all, she is right down the hall.</option>
+    <correct>Great thinking! Email is fast, safe, and can be accessed through any number of devices.</correct>
+    <feedback>Hmmm. That could get expensive.</feedback>
+    <feedback>Yikes! What if the post office loses the documents?</feedback>
+    <feedback>What if your boss is not in her office?</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+    <tries>2</tries>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Expert or Apprentice?</title>
+    <quiz>A colleague sent you an awesome article about using proper ergonomics while sitting at the computer. You
+      don't have time to read the article now, but you would like to save it for future reference. What is the
+      best way to do this?</quiz>
+    <answer>Select the article attachment and save it to your computer.</answer>
+    <option>Print it.</option>
+    <option>Reply to the email and ask your colleague to resend the article next week.</option>
+    <option>Take a screenshot with your phone.</option>
+    <correct>Awesome answer! You can access it later and save money and natural resources.</correct>
+    <feedback>Money doesn't grow on trees! Printing uses ink and paper, both of which get expensive.</feedback>
+    <feedback>Think of a different option that will be more time-efficient for you and your colleague.</feedback>
+    <feedback>Screenshots certainly have their place in capturing information, but they are not effective for long
+      articles.
+    </feedback>
+    <failed>With more effort, you can answer correctly next time.</failed>
+    <failedTitle>That is also incorrect.</failedTitle>
+    <tries>2</tries>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Expert or Apprentice?</title>
+    <quiz>You are working on a project and would like to get all the members together face-to-face to collaborate.
+      What is the best approach?</quiz>
+    <answer>Create a new calendar event and add attendees.</answer>
+    <correct>Way to go! You obviously see this method is efficient and will help you and attendees manage your busy
+      schedules.</correct>
+    <failed>With more effort, you can answer correctly next time.</failed>
+    <option>Use Word online to create a meeting notice and send as an email attachment.</option>
+    <feedback>Double-booking is like double-dipping. No one likes it! Think of another option that will give a good
+      view of your schedule.</feedback>
+    <option>Post your meeting to Facebook.</option>
+    <feedback>Uh oh! Did you ever send the new intern a friend request?</feedback>
+    <option>Send an invitation. People appreciate getting real mail and not just junk.</option>
+    <feedback>True, but this method has downfalls. I hope everyone adds it to their planner!</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+    <tries>2</tries>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Expert or Apprentice?</title>
+    <quiz>Working for a large company, you seem to meet new people each day. What is the best way to manage all your
+      associates’ contact information?</quiz>
+    <answer>Use the People app to add names, email addresses, phone numbers, etc.</answer>
+    <correct>Now that is using your noggin! The People app is an effective way to manage your contacts.</correct>
+    <failed>With more effort, you can answer correctly next time.</failed>
+    <option>Use a three-ring binder with plastic business card inserts.</option>
+    <feedback>This was awesome in the 80s. Try to think of a method that uses 21st century technology.</feedback>
+    <option>Start a running list using Word Online. Each new entry will automatically number itself.</option>
+    <feedback>The numbering feature is nifty, but there is a more efficient and effective method.</feedback>
+    <option>Ask associates to text you, so you can program them into your phone.</option>
+    <feedback>Asking the CEO to text you is not terribly professional.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+    <tries>2</tries>
+  </question>
+  <question>
+    <type>mc</type>
+    <title>Expert or Apprentice?</title>
+    <quiz>On a daily basis, you receive at least 10 new emails. How can you best organize your messages?</quiz>
+    <answer>Drag messages to existing and new folders.</answer>
+    <correct>Yep! Great thinking. This is a filing system to organize your email messages for future reference.</correct>
+    <failed>With more effort, you can answer correctly next time.</failed>
+    <option>Keep all emails in your inbox.</option>
+    <feedback>The saying "The more the merrier" is not an effective way to manage your messages.</feedback>
+    <option>Delete all emails after you read them.</option>
+    <feedback>Uh, this will keep your inbox tidy, but it's not great for people without a photographic memory. Try
+      again.</feedback>
+    <option>Check your messages on Mondays and Thursdays.</option>
+    <feedback>Scheduling your tasks is a good idea, but this won't solve organization issues.</feedback>
+    <failedTitle>That is also incorrect.</failedTitle>
+    <tries>2</tries>
+  </question>
+</interactive>

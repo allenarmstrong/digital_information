@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interactive>
+    <settings>
+        <instructions>Read the questions and select the correct answer.</instructions>
+        <css>
+            <width>700</width>
+            <height>400</height>
+        </css>
+    </settings>
+    <question>
+        <type>mc</type>
+        <title>Proofing Before Sending</title>
+        <quiz>If you are unsure about whether to use "there" or "their" in your document, what can you do to make a note of your question?</quiz>
+        <answer>Add a new comment to check which word usage is correct.</answer>
+        <correct>Good thinking! Since this is an issue of word usage, the spell check will not identify the correct
+            choice. You will need to look this up.
+        </correct>
+        <option>Use the spell-checking tool to find the correct spelling.</option>
+        <option>Use the spell-checking tool to find the correct word usage.</option>
+        <option>Add a new comment to proofread the document.</option>
+    </question>
+    <question>
+        <type>mc</type>
+        <title>Proofing Before Sending</title>
+        <quiz>What does it indicate when a word on your document is underlined in red?</quiz>
+        <answer>The word is misspelled.</answer>
+        <correct>Your thinking cap looks awesome on you! Good job.</correct>
+        <option>The word usage is incorrect.</option>
+        <option>The word has a better synonym.</option>
+        <option>The word is well-chosen.</option>
+    </question>
+    <question>
+        <type>mc</type>
+        <title>Proofing Before Sending</title>
+        <quiz>When you come across a misspelled word in your document, how can you replace it with the correct
+            spelling?
+        </quiz>
+        <answer>Choose the correctly spelled word from the spell-checking tool.</answer>
+        <correct>Yes! Your brain is in the right gear.</correct>
+        <option>Use the Insert tab to insert the correctly spelled word.</option>
+        <option>Adjust the page layout of the document.</option>
+        <option>Delete the misspelled word.</option>
+    </question>
+    <question>
+        <type>mc</type>
+        <title>Proofing Before Sending</title>
+        <quiz>Which tab on the Ribbon do you select to add a New Comment to your document?</quiz>
+        <answer>Review</answer>
+        <correct>Great thinking! Review is where you can access the tools to help you proof your work.</correct>
+        <option>Insert</option>
+        <option>File</option>
+        <option>Home</option>
+    </question>
+    <question>
+        <type>mc</type>
+        <title>Proofing Before Sending</title>
+        <quiz>How do you access an earlier version of a Word Online document?</quiz>
+        <answer>The OneDrive app; documents</answer>
+        <correct>This was a tough one, but you flexed your brain muscles. Way to go!</correct>
+        <option>The Home tab; clipboard</option>
+        <option>The Review tab; spelling</option>
+        <option>The Word Online app; recent documents</option>
+    </question>
+</interactive>

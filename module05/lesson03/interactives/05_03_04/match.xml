@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <title>Tools of the Trade</title>
+    <directions>Match the right tool for the job!</directions>
+    <directionsTextVer>Match the right tool for each job, then check your answers below. </directionsTextVer>
+    <innerDirections>Select a tool, then select the job that you think matches it.</innerDirections>
+    <completeTxt>You know how to use the right web tools to get the job done. Keep working hard!</completeTxt>
+    <failText>Each time you try, your brain grows. (It's true!) Take a moment, think, and try again.</failText>
+    <leftTitle>Tools</leftTitle>
+    <rightTitle>Jobs</rightTitle>
+    <items>
+        <left>App</left>
+        <right>Create a game to teach math to middle-schoolers</right>
+    </items>
+    <items>
+        <left>Blog</left>
+        <right>Publish a black bean brownie recipe and ask readers to make comments</right>
+    </items>
+    <items>
+        <left>Collaborative</left>
+        <right>Participate in virtual meetings in real time</right>
+    </items>
+    <items>
+        <left>Listserv</left>
+        <right>Send newsletters to an online mailing list</right>
+    </items>
+    <items>
+        <left>Social Network</left>
+        <right>Post a personal picture or update</right>
+    </items>
+    <items>
+        <left>Web Page</left>
+        <right>Offer explanatory information about a company's products and services</right>
+    </items>
+</settings>

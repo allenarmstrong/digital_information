@@ -1,0 +1,77 @@
+.keyboard_div {
+    background-image: url("../images/keyboard_2_ts.png");
+    height: 273px;
+    width: 650px;
+    margin: 0 auto;
+}
+
+.pop_div {
+    background-color: rgba(220, 78, 9, .4);
+    display: block;
+    position: relative;
+    border-radius: 6px;
+    border: solid 1px #fff;
+}
+
+.homekey1 {
+    width: 172px;
+    height: 40px;
+    left: 88px;
+    top: 132px;
+}
+
+.homekey2 {
+    width: 172px;
+    height: 40px;
+    left: 346px;
+    top: 92px;
+}
+
+.spacebar {
+    width: 206px;
+    height: 43px;
+    left: 198px;
+    top: 137px;
+}
+
+.shift1 {
+    width: 90px;
+    height: 40px;
+    left: 14px;
+    top: 51px;
+}
+
+.shift2 {
+    width: 90px;
+    height: 40px;
+    left: 545px;
+    top: 11px;
+}
+
+.enter {
+    width: 70px;
+    height: 40px;
+    left: 567px;
+    top: -71px;
+}
+
+.tabkey {
+    width: 60px;
+    height: 40px;
+    left: 12px;
+    top: -153px;
+}
+
+.backspace {
+    width: 60px;
+    height: 40px;
+    left: 576px;
+    top: -235px;
+}
+
+.caplock {
+    width: 72px;
+    height: 40px;
+    left: 12px;
+    top: -191px;
+}

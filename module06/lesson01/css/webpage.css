@@ -1,0 +1,64 @@
+#computer_container {
+    height: 342px;
+    width: 600px;
+    background-image: url(../images/webpage_ts.jpg);
+    background-repeat: no-repeat;
+    background-position: center 10px;
+    margin: 0px auto;
+}
+
+.hotspot {
+    position: relative;
+    width: 30px;
+    height: 29px;
+    background-image: url("../images/links.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: pointer;
+}
+
+#computer_container .tip-top {
+    position: absolute;
+    display: block;
+    height: 30px;
+    width: 29px;
+    cursor: pointer;
+}
+
+#computer_container .tooltip-inner {
+    width: 420px;
+}
+
+#header_pt {
+    top: 50px;
+    left: 200px;
+}
+
+#title_pt {
+    top: 0px;
+    left: 300px;
+}
+
+#nav_pt {
+    top: 40px;
+    left: 450px;
+}
+
+#text_pt {
+    left: 300px;
+    top: 80px;
+}
+
+#graphic_pt {
+    top: -30px;
+    left: 130px;
+}
+
+#links_pt {
+    left: 160px;
+}
+
+#footer_pt {
+    left: 300px;
+    top: 120px;
+}

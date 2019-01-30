@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <title>Domain Endings</title>
+  <directions> Make the right match!</directions>
+  <directionsTextVer>Match the domain endings to their correct definition, then check your answers below.</directionsTextVer>
+  <innerDirections>Select a term on the left, then select the definition that you think matches it.</innerDirections>
+  <completeTxt>Your brain is making connections left and right. Excellent job matching the terms to their correct definition.</completeTxt>
+  <failText>Trying is like CrossFit for the brain! Review the terms in this lesson and try matching the words to their correct definition. </failText>
+  <leftTitle>Term</leftTitle>
+  <rightTitle>Definition</rightTitle>
+  <customTextVer></customTextVer>
+  
+  <items>
+	<left>.com</left> 
+	<right>website is for commercial purposes</right> 
+  </items>
+  <items>
+	<left>.edu</left> 	
+	<right>website is for academic institutions</right> 	
+  </items>
+  <items>
+	<left>.gov</left> 	
+	<right>website is used by the U.S. government</right> 
+  </items>
+  <items>
+	<left>.mil</left> 	
+	<right>website is used by the U.S. military </right>
+  </items>
+  <items>
+	<left>.net</left> 	
+	<right>domain ending used as an alternative to ".com”</right> 
+  </items>
+  <items>
+	<left>.org</left> 	
+	<right>domain ending widely used by non-profit organizations </right> 
+  </items>
+</settings>

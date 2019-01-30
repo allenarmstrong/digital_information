@@ -1,0 +1,79 @@
+.mainVersion {
+    width: 900px;
+}
+
+/** Arrows Position - set position with top and left - first arrow is set defaults to top:0 left:0 **/
+.arrow1 {
+    background-image: url("../../../../global/images/arrows/1/AU1.png");
+
+    height: 150px;
+    top: 56px;
+    left: 5px;
+}
+
+.hilite1 {
+    width: 95px;
+    height: 60px;
+}
+
+.arrow2 {
+    background-image: url("../../../../global/images/arrows/2/AU2.png");
+
+    height: 150px;
+    top: 56px;
+    left: 98px
+}
+
+.hilite2 {
+    width: 77px;
+    height: 60px;
+}
+
+.arrow3 {
+    background-image: url("../../../../global/images/arrows/3/AU3.png");
+
+    height: 150px;
+    top: 56px;
+    left: 175px
+}
+
+.hilite3 {
+    width: 70px;
+    height: 60px;
+}
+
+.arrow4 {
+    background-image: url("../../../../global/images/arrows/4/AU4.png");
+    height: 150px;
+    top: 60px;
+    left: 310px
+}
+
+.hilite4 {
+    width: 115px;
+    height: 60px;
+}
+
+.arrow5 {
+    background-image: url("../../../../global/images/arrows/5/AU5.png");
+    height: 150px;
+    top: 60px;
+    left: 425px
+}
+
+.hilite5 {
+    width: 270px;
+    height: 60px;
+}
+
+.arrow6 {
+    background-image: url("../../../../global/images/arrows/6/AU6.png");
+    height: 150px;
+    top: 60px;
+    left: 695px
+}
+
+.hilite6 {
+    width: 50px;
+    height: 60px;
+}

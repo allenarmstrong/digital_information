@@ -1,0 +1,44 @@
+div.mainVersion {
+    overflow: visible !important;
+}
+
+.mainVersion {
+    width: 900px;
+}
+/** Arrows Position - set position with top and left - first arrow is set defaults to top:0 left:0 **/
+.arrow1 {
+    background-image: url("../../../../global/images/arrows/1/AU1.png");
+
+    height: 160px;
+    top: 60px;
+    left: 5px
+}
+.hilite1 {
+    width: 35px;
+    height: 58px;
+}
+
+.arrow2 {
+    background-image: url("../../../../global/images/arrows/2/AU2.png");
+	
+    height: 160px;
+    top: 60px;
+    left: 83px
+}
+.hilite2 {
+    width: 37px;
+    height: 58px;
+}
+
+.arrow3 {
+    background-image: url("../../../../global/images/arrows/3/AU3.png");
+
+    height: 140px;
+    top: 5px;
+    left: 3px
+}
+.hilite3 {
+    width: 38px;
+    height: 38px;
+}
+

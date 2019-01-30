@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+p.th {
+	color:#fff;
+}
+
+
+.row:nth-of-type(even) {
+	background-color:#F3F3F3 !important;
+	/*clear: both;
+	content: "";
+	display: table;
+	margin-bottom: 30 !important;
+	margin-left: 0; */
+}
+
+
+table {  /* Style added by Tooolwire for a table in Intro to IT Module 8 Lesson 1  */
+		margin-bottom: 18px;
+    	width: 100%;
+}
+
+.table th, .table td {
+    background-color:#bb3b00;
+}
+
+.table thead th {
+    background-color:#bb3b00;
+}
+
+.table tr {
+	    border-top: 1px solid #FFDFC4;
+    	line-height: 18px;
+    	padding: 8px;
+    	text-align: left;
+    	vertical-align: top;
+}
+
+.table td {
+	    border-top: 1px solid #bb3b00;
+    	line-height: 18px;
+    	padding: 8px;
+    	text-align: left;
+    	vertical-align: top;
+}
+
+table .tbody tr:nth-child(2n+1) td {
+    	background-color: #FFDFC4;
+}

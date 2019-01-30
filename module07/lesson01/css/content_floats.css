@@ -1,0 +1,82 @@
+@charset "utf-8"; 
+/* CSS Document */ 
+
+
+.col13 {
+	float:left;
+	margin-right:3%;
+	width:34%;
+}
+
+.col23 {
+	float:left;
+	margin-right:3%;
+	width:60%;
+}
+
+.col34 {
+	float:left;
+	margin-right:3%;
+	width:70%;
+}
+
+
+.leftimagefloatintro { /* image float for first page of each lesson */
+	float:left;
+	width:37%;
+	/* padding-right:4px !important; */
+	z-index:-1 !important;
+}
+
+.righttextfloatintro { /* text float for first page of each lesson */
+	float:right;
+	width:62%;
+	/* padding-left:4px !important; */
+}
+
+
+.leftimagefloatnormal { /* image float for normal lesson page */
+	float:left;
+	width:28%;
+	/* padding-right:4px !important; */
+	z-index:-1 !important;
+}
+
+.righttextfloatnormal { /* text float for normal lesson page */
+	float:right;
+	width:72%;
+	/* padding-left:4px !important; */
+}
+
+.rightimagefloatnormal { /* image float for normal lesson page */
+	float:right;
+	width:37%;
+	/* padding-right:4px !important; */
+	z-index:-1 !important;
+}
+
+.lefttextfloatnormal { /* text float for normal lesson page */
+	float:left;
+	width:63%;
+	/* padding-left:4px !important; */
+}
+
+
+.tableleftcolumn { 
+	background-color:rgb(1,103,1);
+	border-width:1px;
+	border-color:rgb(102,102,102);
+	color:white;
+	float:left;
+	width:28%;
+	/* padding:3px; */
+}
+
+
+.tablerightcolumn { 
+	border-width:1px;
+	border-color:rgb(102,102,102);
+	float:right;
+	width:72%;
+	/* padding:4px; */
+}
